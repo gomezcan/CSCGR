@@ -1,0 +1,3 @@
+# This file contain a link to the PPI used in this work
+https://www.dropbox.com/s/htwd92k4zfd08tl/BIOGRID_Arabidopsis_3.5.169_reduce_02_25_2019.txt?dl=0
+#
