@@ -1,0 +1,3 @@
+## This files contain links to PDI used in this work
+ChIP data: https://www.dropbox.com/s/ftiihciucsre03y/All_ChIPs_Peaks.bed.gz?dl=0
+DAPseq data: https://www.dropbox.com/s/bxa2u0pmnwre42n/All_DAPseq_Peaks.bed.gz?dl=0
