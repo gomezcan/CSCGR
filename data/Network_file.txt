@@ -1,0 +1,3 @@
+# This file contain a link to the network used in this work in order to calculate common targets genes 
+https://www.dropbox.com/s/hnt7xlzn3qzvet8/NewData_targets.txt.gz?dl=0
+#
