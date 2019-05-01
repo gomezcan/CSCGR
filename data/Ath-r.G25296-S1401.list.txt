@@ -1,0 +1,1409 @@
+DRR008476	DRP001015	Mechanism for full-length RNA processing over intragenic heterochromatin
+DRR008477	DRP001015	Mechanism for full-length RNA processing over intragenic heterochromatin
+DRR008478	DRP001015	Mechanism for full-length RNA processing over intragenic heterochromatin
+DRR018422	DRP002301	RNAseq of PhyAB mutants for Red light
+DRR018423	DRP002301	RNAseq of PhyAB mutants for Red light
+DRR018425	DRP002301	RNAseq of PhyAB mutants for Red light
+DRR018424	DRP002301	RNAseq of PhyAB mutants for Red light
+DRR018428	DRP002301	RNAseq of PhyAB mutants for Red light
+DRR018427	DRP002301	RNAseq of PhyAB mutants for Red light
+DRR018426	DRP002301	RNAseq of PhyAB mutants for Red light
+ERR229827	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229828	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229829	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229830	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229831	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229832	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229833	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229834	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229835	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229836	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229837	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229838	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229839	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229840	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229842	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229843	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229844	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229846	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229847	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229850	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229851	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229852	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229854	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229856	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229857	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR229858	ERP002233	Single-cell RNA-seq for pGL2 and QC cells from the Arabidopsis thaliana root
+ERR274308	ERP002617	Salt priming A. thaliana RNA-Seq
+ERR274309	ERP002617	Salt priming A. thaliana RNA-Seq
+ERR274310	ERP002617	Salt priming A. thaliana RNA-Seq
+ERR274311	ERP002617	Salt priming A. thaliana RNA-Seq
+ERR377676	ERP004388	Transcript residency on ribosomes reveals a key role for the Arabidopsis thaliana bundle sheath in sulphur and glucosinolate metabolism.
+ERR377677	ERP004388	Transcript residency on ribosomes reveals a key role for the Arabidopsis thaliana bundle sheath in sulphur and glucosinolate metabolism.
+ERR377678	ERP004388	Transcript residency on ribosomes reveals a key role for the Arabidopsis thaliana bundle sheath in sulphur and glucosinolate metabolism.
+ERR377679	ERP004388	Transcript residency on ribosomes reveals a key role for the Arabidopsis thaliana bundle sheath in sulphur and glucosinolate metabolism.
+ERR377680	ERP004388	Transcript residency on ribosomes reveals a key role for the Arabidopsis thaliana bundle sheath in sulphur and glucosinolate metabolism.
+ERR377681	ERP004388	Transcript residency on ribosomes reveals a key role for the Arabidopsis thaliana bundle sheath in sulphur and glucosinolate metabolism.
+ERR588038	ERP006778	RNA-Seq of Arabidopsis thaliana developing siliques and seeds with temperature shifts
+ERR588039	ERP006778	RNA-Seq of Arabidopsis thaliana developing siliques and seeds with temperature shifts
+ERR588041	ERP006778	RNA-Seq of Arabidopsis thaliana developing siliques and seeds with temperature shifts
+ERR588044	ERP006778	RNA-Seq of Arabidopsis thaliana developing siliques and seeds with temperature shifts
+ERR588045	ERP006778	RNA-Seq of Arabidopsis thaliana developing siliques and seeds with temperature shifts
+ERR588046	ERP006778	RNA-Seq of Arabidopsis thaliana developing siliques and seeds with temperature shifts
+ERR588047	ERP006778	RNA-Seq of Arabidopsis thaliana developing siliques and seeds with temperature shifts
+ERR754056	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754057	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754058	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754060	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754061	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754063	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754065	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754066	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754067	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754068	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754070	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754071	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754072	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754073	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754074	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754075	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754077	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754078	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754079	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754081	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754082	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754083	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754084	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754085	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754086	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754089	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+ERR754090	ERP009505	RNA-sequencing data of young developing leaves of 6 Arabidopsis accessions in control and mild drought conditions
+SRR019183	SRP000935	Transcriptome-wide map of alternative splicing in Arabidopsis
+SRR068956	SRP003799	Extensive imprinted gene expression in Arabidopsis endosperm
+SRR068957	SRP003799	Extensive imprinted gene expression in Arabidopsis endosperm
+SRR068958	SRP003799	Extensive imprinted gene expression in Arabidopsis endosperm
+SRR068959	SRP003799	Extensive imprinted gene expression in Arabidopsis endosperm
+SRR068971	SRP003799	Extensive imprinted gene expression in Arabidopsis endosperm
+SRR068975	SRP003799	Extensive imprinted gene expression in Arabidopsis endosperm
+SRR068976	SRP003799	Extensive imprinted gene expression in Arabidopsis endosperm
+SRR068977	SRP003799	Extensive imprinted gene expression in Arabidopsis endosperm
+SRR068987	SRP003799	Extensive imprinted gene expression in Arabidopsis endosperm
+SRR100209	SRP005700	High-resolution analysis of parent-of-origin-allelic expression in Arabidopsis seeds
+SRR100210	SRP005700	High-resolution analysis of parent-of-origin-allelic expression in Arabidopsis seeds
+SRR100211	SRP005700	High-resolution analysis of parent-of-origin-allelic expression in Arabidopsis seeds
+SRR100212	SRP005700	High-resolution analysis of parent-of-origin-allelic expression in Arabidopsis seeds
+SRR100213	SRP005700	High-resolution analysis of parent-of-origin-allelic expression in Arabidopsis seeds
+SRR100214	SRP005700	High-resolution analysis of parent-of-origin-allelic expression in Arabidopsis seeds
+SRR100215	SRP005700	High-resolution analysis of parent-of-origin-allelic expression in Arabidopsis seeds
+SRR100216	SRP005700	High-resolution analysis of parent-of-origin-allelic expression in Arabidopsis seeds
+SRR493097	SRP012576	Widespread Dynamic DNA Methylation in Response to Biotic Stress
+SRR493098	SRP012576	Widespread Dynamic DNA Methylation in Response to Biotic Stress
+SRR513596	SRP012576	Widespread Dynamic DNA Methylation in Response to Biotic Stress
+SRR513597	SRP012576	Widespread Dynamic DNA Methylation in Response to Biotic Stress
+SRR513729	SRP012576	Widespread Dynamic DNA Methylation in Response to Biotic Stress
+SRR513731	SRP012576	Widespread Dynamic DNA Methylation in Response to Biotic Stress
+SRR513741	SRP012576	Widespread Dynamic DNA Methylation in Response to Biotic Stress
+SRR513742	SRP012576	Widespread Dynamic DNA Methylation in Response to Biotic Stress
+SRR513743	SRP012576	Widespread Dynamic DNA Methylation in Response to Biotic Stress
+SRR513744	SRP012576	Widespread Dynamic DNA Methylation in Response to Biotic Stress
+SRR515160	SRP012576	Widespread Dynamic DNA Methylation in Response to Biotic Stress
+SRR515175	SRP012576	Widespread Dynamic DNA Methylation in Response to Biotic Stress
+SRR515176	SRP012576	Widespread Dynamic DNA Methylation in Response to Biotic Stress
+SRR515177	SRP012576	Widespread Dynamic DNA Methylation in Response to Biotic Stress
+SRR515178	SRP012576	Widespread Dynamic DNA Methylation in Response to Biotic Stress
+SRR515179	SRP012576	Widespread Dynamic DNA Methylation in Response to Biotic Stress
+SRR515180	SRP012576	Widespread Dynamic DNA Methylation in Response to Biotic Stress
+SRR515181	SRP012576	Widespread Dynamic DNA Methylation in Response to Biotic Stress
+SRR515182	SRP012576	Widespread Dynamic DNA Methylation in Response to Biotic Stress
+SRR515192	SRP012576	Widespread Dynamic DNA Methylation in Response to Biotic Stress
+SRR515193	SRP012576	Widespread Dynamic DNA Methylation in Response to Biotic Stress
+SRR515195	SRP012576	Widespread Dynamic DNA Methylation in Response to Biotic Stress
+SRR514997	SRP007110	Cis- and trans- regulatory divergence between progenitor species determines gene-expression novelty in Arabidopsis allopolyploids
+SRR307068	SRP007424	Allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col and Ler reciprocal F1 hybrid embryo and endosperm
+SRR307070	SRP007424	Allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col and Ler reciprocal F1 hybrid embryo and endosperm
+SRR307073	SRP007424	Allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col and Ler reciprocal F1 hybrid embryo and endosperm
+SRR307076	SRP007424	Allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col and Ler reciprocal F1 hybrid embryo and endosperm
+SRR314813	SRP007511	Multiple tissue RNA sequencing of two Arabidopsis thaliana MAGIC founder accessions
+SRR314814	SRP007511	Multiple tissue RNA sequencing of two Arabidopsis thaliana MAGIC founder accessions
+SRR314815	SRP007511	Multiple tissue RNA sequencing of two Arabidopsis thaliana MAGIC founder accessions
+SRR314816	SRP007511	Multiple tissue RNA sequencing of two Arabidopsis thaliana MAGIC founder accessions
+SRR314817	SRP007511	Multiple tissue RNA sequencing of two Arabidopsis thaliana MAGIC founder accessions
+SRR314818	SRP007511	Multiple tissue RNA sequencing of two Arabidopsis thaliana MAGIC founder accessions
+SRR331224	SRP007763	Genome-wide detection of context-sensitive alternative splicing in Arabidopsis roots
+SRR331228	SRP007763	Genome-wide detection of context-sensitive alternative splicing in Arabidopsis roots
+SRR331229	SRP007763	Genome-wide detection of context-sensitive alternative splicing in Arabidopsis roots
+SRR345551	SRP008259	Expression profiles of IAA biosynthesis deficient seedlings of Arabidopsis thaliana
+SRR345552	SRP008259	Expression profiles of IAA biosynthesis deficient seedlings of Arabidopsis thaliana
+SRR345553	SRP008259	Expression profiles of IAA biosynthesis deficient seedlings of Arabidopsis thaliana
+SRR345554	SRP008259	Expression profiles of IAA biosynthesis deficient seedlings of Arabidopsis thaliana
+SRR345555	SRP008259	Expression profiles of IAA biosynthesis deficient seedlings of Arabidopsis thaliana
+SRR345556	SRP008259	Expression profiles of IAA biosynthesis deficient seedlings of Arabidopsis thaliana
+SRR345561	SRP008262	SKIP Is a Component of the Spliceosome Linking Alternative Splicing and the Circadian Clock in Arabidopsis
+SRR345562	SRP008262	SKIP Is a Component of the Spliceosome Linking Alternative Splicing and the Circadian Clock in Arabidopsis
+SRR345563	SRP008262	SKIP Is a Component of the Spliceosome Linking Alternative Splicing and the Circadian Clock in Arabidopsis
+SRR345564	SRP008262	SKIP Is a Component of the Spliceosome Linking Alternative Splicing and the Circadian Clock in Arabidopsis
+SRR346552	SRP008348	2-week-old Arabidopsis seedlings (Columbia ecotype)
+SRR346553	SRP008348	2-week-old Arabidopsis seedlings (Columbia ecotype)
+SRR349697	SRP008486	IBM1, a JmjC domain histone demethylase, is involved in the regulation of RNA-directed DNA methylation through epigenetic control of RDR2 and DCL3 expression in Arabidopsis.
+SRR349698	SRP008486	IBM1, a JmjC domain histone demethylase, is involved in the regulation of RNA-directed DNA methylation through epigenetic control of RDR2 and DCL3 expression in Arabidopsis.
+SRR360152	SRP009136	Alternative splicing landscape in Arabidopsis
+SRR360153	SRP009136	Alternative splicing landscape in Arabidopsis
+SRR360154	SRP009136	Alternative splicing landscape in Arabidopsis
+SRR360205	SRP009136	Alternative splicing landscape in Arabidopsis
+SRR364469	SRP009340	Maternal and paternal genomes contribute equally to the transcriptome of early plant embryos
+SRR364677	SRP009369	Mapping Gene Activity of Arabidopsis Root Hairs
+SRR364678	SRP009369	Mapping Gene Activity of Arabidopsis Root Hairs
+SRR388665	SRP009678	Mapping regulatory elements using signatures of open chromatin in Arabidopsis thaliana
+SRR388666	SRP009678	Mapping regulatory elements using signatures of open chromatin in Arabidopsis thaliana
+SRR388667	SRP009678	Mapping regulatory elements using signatures of open chromatin in Arabidopsis thaliana
+SRR388668	SRP009678	Mapping regulatory elements using signatures of open chromatin in Arabidopsis thaliana
+SRR388669	SRP009678	Mapping regulatory elements using signatures of open chromatin in Arabidopsis thaliana
+SRR388670	SRP009678	Mapping regulatory elements using signatures of open chromatin in Arabidopsis thaliana
+SRR391052	SRP009884	Two replicates of mRNA from Arabidopsis thaliana leaves 24 hours post infection with Botrytis cinerea
+SRR393798	SRP010063	Genome-wide identification of non-coding RNAs targeted by XRN exoribonucleases in collaboration with FRY1 using RNA-Seq in Arabidopsis thaliana.
+SRR393799	SRP010063	Genome-wide identification of non-coding RNAs targeted by XRN exoribonucleases in collaboration with FRY1 using RNA-Seq in Arabidopsis thaliana.
+SRR393801	SRP010063	Genome-wide identification of non-coding RNAs targeted by XRN exoribonucleases in collaboration with FRY1 using RNA-Seq in Arabidopsis thaliana.
+SRR393802	SRP010063	Genome-wide identification of non-coding RNAs targeted by XRN exoribonucleases in collaboration with FRY1 using RNA-Seq in Arabidopsis thaliana.
+SRR393803	SRP010063	Genome-wide identification of non-coding RNAs targeted by XRN exoribonucleases in collaboration with FRY1 using RNA-Seq in Arabidopsis thaliana.
+SRR393804	SRP010063	Genome-wide identification of non-coding RNAs targeted by XRN exoribonucleases in collaboration with FRY1 using RNA-Seq in Arabidopsis thaliana.
+SRR393805	SRP010063	Genome-wide identification of non-coding RNAs targeted by XRN exoribonucleases in collaboration with FRY1 using RNA-Seq in Arabidopsis thaliana.
+SRR393806	SRP010063	Genome-wide identification of non-coding RNAs targeted by XRN exoribonucleases in collaboration with FRY1 using RNA-Seq in Arabidopsis thaliana.
+SRR393807	SRP010063	Genome-wide identification of non-coding RNAs targeted by XRN exoribonucleases in collaboration with FRY1 using RNA-Seq in Arabidopsis thaliana.
+SRR393808	SRP010063	Genome-wide identification of non-coding RNAs targeted by XRN exoribonucleases in collaboration with FRY1 using RNA-Seq in Arabidopsis thaliana.
+SRR393809	SRP010063	Genome-wide identification of non-coding RNAs targeted by XRN exoribonucleases in collaboration with FRY1 using RNA-Seq in Arabidopsis thaliana.
+SRR393810	SRP010063	Genome-wide identification of non-coding RNAs targeted by XRN exoribonucleases in collaboration with FRY1 using RNA-Seq in Arabidopsis thaliana.
+SRR393812	SRP010063	Genome-wide identification of non-coding RNAs targeted by XRN exoribonucleases in collaboration with FRY1 using RNA-Seq in Arabidopsis thaliana.
+SRR393813	SRP010063	Genome-wide identification of non-coding RNAs targeted by XRN exoribonucleases in collaboration with FRY1 using RNA-Seq in Arabidopsis thaliana.
+SRR394082	SRP010096	Genome-wide analysis of histone H3.1 and H3.3 variants in Arabidopsis thaliana
+SRR401415	SRP010481	Transcriptional profiling of the Arabidopsis abscission mutant hae hsl2 by RNA-Seq
+SRR401416	SRP010481	Transcriptional profiling of the Arabidopsis abscission mutant hae hsl2 by RNA-Seq
+SRR401418	SRP010481	Transcriptional profiling of the Arabidopsis abscission mutant hae hsl2 by RNA-Seq
+SRR401421	SRP010481	Transcriptional profiling of the Arabidopsis abscission mutant hae hsl2 by RNA-Seq
+SRR401424	SRP010481	Transcriptional profiling of the Arabidopsis abscission mutant hae hsl2 by RNA-Seq
+SRR401430	SRP010481	Transcriptional profiling of the Arabidopsis abscission mutant hae hsl2 by RNA-Seq
+SRR402995	SRP010642	Brassinosteroid, gibberellin, and phytochrome impinge on a common transcription module in Arabidopsis
+SRR402996	SRP010642	Brassinosteroid, gibberellin, and phytochrome impinge on a common transcription module in Arabidopsis
+SRR402997	SRP010642	Brassinosteroid, gibberellin, and phytochrome impinge on a common transcription module in Arabidopsis
+SRR402998	SRP010642	Brassinosteroid, gibberellin, and phytochrome impinge on a common transcription module in Arabidopsis
+SRR515489	SRP010642	Brassinosteroid, gibberellin, and phytochrome impinge on a common transcription module in Arabidopsis
+SRR515490	SRP010642	Brassinosteroid, gibberellin, and phytochrome impinge on a common transcription module in Arabidopsis
+SRR515491	SRP010642	Brassinosteroid, gibberellin, and phytochrome impinge on a common transcription module in Arabidopsis
+SRR515492	SRP010642	Brassinosteroid, gibberellin, and phytochrome impinge on a common transcription module in Arabidopsis
+SRR515493	SRP010642	Brassinosteroid, gibberellin, and phytochrome impinge on a common transcription module in Arabidopsis
+SRR446027	SRP010938	Arabidopsis thaliana strain:Columbia (Col-0) Transcriptome or Gene expression
+SRR446028	SRP010938	Arabidopsis thaliana strain:Columbia (Col-0) Transcriptome or Gene expression
+SRR446029	SRP010938	Arabidopsis thaliana strain:Columbia (Col-0) Transcriptome or Gene expression
+SRR446030	SRP010938	Arabidopsis thaliana strain:Columbia (Col-0) Transcriptome or Gene expression
+SRR446031	SRP010938	Arabidopsis thaliana strain:Columbia (Col-0) Transcriptome or Gene expression
+SRR446032	SRP010938	Arabidopsis thaliana strain:Columbia (Col-0) Transcriptome or Gene expression
+SRR446033	SRP010938	Arabidopsis thaliana strain:Columbia (Col-0) Transcriptome or Gene expression
+SRR446034	SRP010938	Arabidopsis thaliana strain:Columbia (Col-0) Transcriptome or Gene expression
+SRR446035	SRP010938	Arabidopsis thaliana strain:Columbia (Col-0) Transcriptome or Gene expression
+SRR446036	SRP010938	Arabidopsis thaliana strain:Columbia (Col-0) Transcriptome or Gene expression
+SRR446037	SRP010938	Arabidopsis thaliana strain:Columbia (Col-0) Transcriptome or Gene expression
+SRR446038	SRP010938	Arabidopsis thaliana strain:Columbia (Col-0) Transcriptome or Gene expression
+SRR446039	SRP010938	Arabidopsis thaliana strain:Columbia (Col-0) Transcriptome or Gene expression
+SRR446040	SRP010938	Arabidopsis thaliana strain:Columbia (Col-0) Transcriptome or Gene expression
+SRR446041	SRP010938	Arabidopsis thaliana strain:Columbia (Col-0) Transcriptome or Gene expression
+SRR446042	SRP010938	Arabidopsis thaliana strain:Columbia (Col-0) Transcriptome or Gene expression
+SRR446043	SRP010938	Arabidopsis thaliana strain:Columbia (Col-0) Transcriptome or Gene expression
+SRR446044	SRP010938	Arabidopsis thaliana strain:Columbia (Col-0) Transcriptome or Gene expression
+SRR419182	SRP011086	An IDN2-containing complex involved in RNA-directed DNA methylation in Arabidopsis [leaves RNA-seq]
+SRR419183	SRP011086	An IDN2-containing complex involved in RNA-directed DNA methylation in Arabidopsis [leaves RNA-seq]
+SRR419184	SRP011086	An IDN2-containing complex involved in RNA-directed DNA methylation in Arabidopsis [leaves RNA-seq]
+SRR419185	SRP011086	An IDN2-containing complex involved in RNA-directed DNA methylation in Arabidopsis [leaves RNA-seq]
+SRR419186	SRP011086	An IDN2-containing complex involved in RNA-directed DNA methylation in Arabidopsis [leaves RNA-seq]
+SRR419187	SRP011086	An IDN2-containing complex involved in RNA-directed DNA methylation in Arabidopsis [leaves RNA-seq]
+SRR420813	SRP011128	ArabidopsisTranscriptome or Gene expression
+SRR420814	SRP011128	ArabidopsisTranscriptome or Gene expression
+SRR420815	SRP011128	ArabidopsisTranscriptome or Gene expression
+SRR420816	SRP011128	ArabidopsisTranscriptome or Gene expression
+SRR420817	SRP011128	ArabidopsisTranscriptome or Gene expression
+SRR420818	SRP011128	ArabidopsisTranscriptome or Gene expression
+SRR444595	SRP011435	High-thoughput Illumina RNA sequencing to identify downstream target genes of RABBIT EARS (RBE) in the flowers of Arabidopsis thaliana
+SRR444596	SRP011435	High-thoughput Illumina RNA sequencing to identify downstream target genes of RABBIT EARS (RBE) in the flowers of Arabidopsis thaliana
+SRR444597	SRP011435	High-thoughput Illumina RNA sequencing to identify downstream target genes of RABBIT EARS (RBE) in the flowers of Arabidopsis thaliana
+SRR444598	SRP011435	High-thoughput Illumina RNA sequencing to identify downstream target genes of RABBIT EARS (RBE) in the flowers of Arabidopsis thaliana
+SRR444599	SRP011435	High-thoughput Illumina RNA sequencing to identify downstream target genes of RABBIT EARS (RBE) in the flowers of Arabidopsis thaliana
+SRR444600	SRP011435	High-thoughput Illumina RNA sequencing to identify downstream target genes of RABBIT EARS (RBE) in the flowers of Arabidopsis thaliana
+SRR444601	SRP011435	High-thoughput Illumina RNA sequencing to identify downstream target genes of RABBIT EARS (RBE) in the flowers of Arabidopsis thaliana
+SRR444602	SRP011435	High-thoughput Illumina RNA sequencing to identify downstream target genes of RABBIT EARS (RBE) in the flowers of Arabidopsis thaliana
+SRR446484	SRP011589	Dynamic Deposition of the Histone H3.3 Variant Accompanies Developmental Remodeling of Arabidopsis Transcriptome (mRNA-Seq)
+SRR446485	SRP011589	Dynamic Deposition of the Histone H3.3 Variant Accompanies Developmental Remodeling of Arabidopsis Transcriptome (mRNA-Seq)
+SRR446486	SRP011589	Dynamic Deposition of the Histone H3.3 Variant Accompanies Developmental Remodeling of Arabidopsis Transcriptome (mRNA-Seq)
+SRR446487	SRP011589	Dynamic Deposition of the Histone H3.3 Variant Accompanies Developmental Remodeling of Arabidopsis Transcriptome (mRNA-Seq)
+SRR477075	SRP012153	Interaction between BZR1 and PIF4 integrates brassinosteroid and environmental responses [RNA-seq]
+SRR477076	SRP012153	Interaction between BZR1 and PIF4 integrates brassinosteroid and environmental responses [RNA-seq]
+SRR477077	SRP012153	Interaction between BZR1 and PIF4 integrates brassinosteroid and environmental responses [RNA-seq]
+SRR477078	SRP012153	Interaction between BZR1 and PIF4 integrates brassinosteroid and environmental responses [RNA-seq]
+SRR477079	SRP012153	Interaction between BZR1 and PIF4 integrates brassinosteroid and environmental responses [RNA-seq]
+SRR477080	SRP012153	Interaction between BZR1 and PIF4 integrates brassinosteroid and environmental responses [RNA-seq]
+SRR477081	SRP012153	Interaction between BZR1 and PIF4 integrates brassinosteroid and environmental responses [RNA-seq]
+SRR477082	SRP012153	Interaction between BZR1 and PIF4 integrates brassinosteroid and environmental responses [RNA-seq]
+SRR479032	SRP012163	An IDN2-containing complex involved in RNA-directed DNA methylation in Arabidopsis (flowers RNA-seq)
+SRR479033	SRP012163	An IDN2-containing complex involved in RNA-directed DNA methylation in Arabidopsis (flowers RNA-seq)
+SRR479034	SRP012163	An IDN2-containing complex involved in RNA-directed DNA methylation in Arabidopsis (flowers RNA-seq)
+SRR479035	SRP012163	An IDN2-containing complex involved in RNA-directed DNA methylation in Arabidopsis (flowers RNA-seq)
+SRR479036	SRP012163	An IDN2-containing complex involved in RNA-directed DNA methylation in Arabidopsis (flowers RNA-seq)
+SRR479037	SRP012163	An IDN2-containing complex involved in RNA-directed DNA methylation in Arabidopsis (flowers RNA-seq)
+SRR479038	SRP012163	An IDN2-containing complex involved in RNA-directed DNA methylation in Arabidopsis (flowers RNA-seq)
+SRR493036	SRP012587	MORC family ATPases required for heterochromatin condensation and gene silencing
+SRR493037	SRP012587	MORC family ATPases required for heterochromatin condensation and gene silencing
+SRR493038	SRP012587	MORC family ATPases required for heterochromatin condensation and gene silencing
+SRR493039	SRP012587	MORC family ATPases required for heterochromatin condensation and gene silencing
+SRR493040	SRP012587	MORC family ATPases required for heterochromatin condensation and gene silencing
+SRR493041	SRP012587	MORC family ATPases required for heterochromatin condensation and gene silencing
+SRR493042	SRP012587	MORC family ATPases required for heterochromatin condensation and gene silencing
+SRR493043	SRP012587	MORC family ATPases required for heterochromatin condensation and gene silencing
+SRR493044	SRP012587	MORC family ATPases required for heterochromatin condensation and gene silencing
+SRR493045	SRP012587	MORC family ATPases required for heterochromatin condensation and gene silencing
+SRR493046	SRP012587	MORC family ATPases required for heterochromatin condensation and gene silencing
+SRR493047	SRP012587	MORC family ATPases required for heterochromatin condensation and gene silencing
+SRR493237	SRP012592	Phosphorylation-Regulated Cleavage of ETHYLENE INSENSITIVE2 Mediates Hormone Signaling from the Endoplasmic Reticulum to the Nucleus
+SRR493238	SRP012592	Phosphorylation-Regulated Cleavage of ETHYLENE INSENSITIVE2 Mediates Hormone Signaling from the Endoplasmic Reticulum to the Nucleus
+SRR493239	SRP012592	Phosphorylation-Regulated Cleavage of ETHYLENE INSENSITIVE2 Mediates Hormone Signaling from the Endoplasmic Reticulum to the Nucleus
+SRR493240	SRP012592	Phosphorylation-Regulated Cleavage of ETHYLENE INSENSITIVE2 Mediates Hormone Signaling from the Endoplasmic Reticulum to the Nucleus
+SRR493285	SRP012592	Phosphorylation-Regulated Cleavage of ETHYLENE INSENSITIVE2 Mediates Hormone Signaling from the Endoplasmic Reticulum to the Nucleus
+SRR493286	SRP012592	Phosphorylation-Regulated Cleavage of ETHYLENE INSENSITIVE2 Mediates Hormone Signaling from the Endoplasmic Reticulum to the Nucleus
+SRR493287	SRP012592	Phosphorylation-Regulated Cleavage of ETHYLENE INSENSITIVE2 Mediates Hormone Signaling from the Endoplasmic Reticulum to the Nucleus
+SRR493288	SRP012592	Phosphorylation-Regulated Cleavage of ETHYLENE INSENSITIVE2 Mediates Hormone Signaling from the Endoplasmic Reticulum to the Nucleus
+SRR493289	SRP012592	Phosphorylation-Regulated Cleavage of ETHYLENE INSENSITIVE2 Mediates Hormone Signaling from the Endoplasmic Reticulum to the Nucleus
+SRR493290	SRP012592	Phosphorylation-Regulated Cleavage of ETHYLENE INSENSITIVE2 Mediates Hormone Signaling from the Endoplasmic Reticulum to the Nucleus
+SRR501594	SRP013427	DNA methyltransferases are required to induce heterochromatic re-replication in Arabidopsis.
+SRR501596	SRP013427	DNA methyltransferases are required to induce heterochromatic re-replication in Arabidopsis.
+SRR501597	SRP013427	DNA methyltransferases are required to induce heterochromatic re-replication in Arabidopsis.
+SRR501598	SRP013427	DNA methyltransferases are required to induce heterochromatic re-replication in Arabidopsis.
+SRR501599	SRP013427	DNA methyltransferases are required to induce heterochromatic re-replication in Arabidopsis.
+SRR501600	SRP013427	DNA methyltransferases are required to induce heterochromatic re-replication in Arabidopsis.
+SRR501601	SRP013427	DNA methyltransferases are required to induce heterochromatic re-replication in Arabidopsis.
+SRR501602	SRP013427	DNA methyltransferases are required to induce heterochromatic re-replication in Arabidopsis.
+SRR501603	SRP013427	DNA methyltransferases are required to induce heterochromatic re-replication in Arabidopsis.
+SRR501605	SRP013427	DNA methyltransferases are required to induce heterochromatic re-replication in Arabidopsis.
+SRR501607	SRP013427	DNA methyltransferases are required to induce heterochromatic re-replication in Arabidopsis.
+SRR501609	SRP013427	DNA methyltransferases are required to induce heterochromatic re-replication in Arabidopsis.
+SRR501610	SRP013427	DNA methyltransferases are required to induce heterochromatic re-replication in Arabidopsis.
+SRR501611	SRP013427	DNA methyltransferases are required to induce heterochromatic re-replication in Arabidopsis.
+SRR501612	SRP013427	DNA methyltransferases are required to induce heterochromatic re-replication in Arabidopsis.
+SRR501613	SRP013427	DNA methyltransferases are required to induce heterochromatic re-replication in Arabidopsis.
+SRR501614	SRP013427	DNA methyltransferases are required to induce heterochromatic re-replication in Arabidopsis.
+SRR501615	SRP013427	DNA methyltransferases are required to induce heterochromatic re-replication in Arabidopsis.
+SRR501616	SRP013427	DNA methyltransferases are required to induce heterochromatic re-replication in Arabidopsis.
+SRR501618	SRP013427	DNA methyltransferases are required to induce heterochromatic re-replication in Arabidopsis.
+SRR501620	SRP013427	DNA methyltransferases are required to induce heterochromatic re-replication in Arabidopsis.
+SRR501622	SRP013427	DNA methyltransferases are required to induce heterochromatic re-replication in Arabidopsis.
+SRR501623	SRP013427	DNA methyltransferases are required to induce heterochromatic re-replication in Arabidopsis.
+SRR504179	SRP013533	A SWI/SNF nucleosome remodeling complex acts in non-coding RNA-mediated transcriptional silencing
+SRR504180	SRP013533	A SWI/SNF nucleosome remodeling complex acts in non-coding RNA-mediated transcriptional silencing
+SRR504181	SRP013533	A SWI/SNF nucleosome remodeling complex acts in non-coding RNA-mediated transcriptional silencing
+SRR504182	SRP013533	A SWI/SNF nucleosome remodeling complex acts in non-coding RNA-mediated transcriptional silencing
+SRR504183	SRP013533	A SWI/SNF nucleosome remodeling complex acts in non-coding RNA-mediated transcriptional silencing
+SRR504184	SRP013533	A SWI/SNF nucleosome remodeling complex acts in non-coding RNA-mediated transcriptional silencing
+SRR504185	SRP013533	A SWI/SNF nucleosome remodeling complex acts in non-coding RNA-mediated transcriptional silencing
+SRR504186	SRP013533	A SWI/SNF nucleosome remodeling complex acts in non-coding RNA-mediated transcriptional silencing
+SRR504187	SRP013533	A SWI/SNF nucleosome remodeling complex acts in non-coding RNA-mediated transcriptional silencing
+SRR576327	SRP013533	A SWI/SNF nucleosome remodeling complex acts in non-coding RNA-mediated transcriptional silencing
+SRR576328	SRP013533	A SWI/SNF nucleosome remodeling complex acts in non-coding RNA-mediated transcriptional silencing
+SRR576329	SRP013533	A SWI/SNF nucleosome remodeling complex acts in non-coding RNA-mediated transcriptional silencing
+SRR505743	SRP013631	GSE38612: Identification of long ncRNAs using RNA-seq in Arabidopsis
+SRR505744	SRP013631	GSE38612: Identification of long ncRNAs using RNA-seq in Arabidopsis
+SRR505745	SRP013631	GSE38612: Identification of long ncRNAs using RNA-seq in Arabidopsis
+SRR505746	SRP013631	GSE38612: Identification of long ncRNAs using RNA-seq in Arabidopsis
+SRR515317	SRP013873	Identification of RVE8 target genes
+SRR515318	SRP013873	Identification of RVE8 target genes
+SRR515319	SRP013873	Identification of RVE8 target genes
+SRR515320	SRP013873	Identification of RVE8 target genes
+SRR515323	SRP013873	Identification of RVE8 target genes
+SRR515333	SRP013873	Identification of RVE8 target genes
+SRR517965	SRP013996	Integrative genome-wide analysis reveals HLP1, a novel RNA-binding protein, regulates plant flowering by targeted alternative polyadenylation
+SRR517966	SRP013996	Integrative genome-wide analysis reveals HLP1, a novel RNA-binding protein, regulates plant flowering by targeted alternative polyadenylation
+SRR518040	SRP014002	Deposition of histone variant H2A.Z within gene bodies regulates responsive genes
+SRR518041	SRP014002	Deposition of histone variant H2A.Z within gene bodies regulates responsive genes
+SRR518042	SRP014002	Deposition of histone variant H2A.Z within gene bodies regulates responsive genes
+SRR518043	SRP014002	Deposition of histone variant H2A.Z within gene bodies regulates responsive genes
+SRR518044	SRP014002	Deposition of histone variant H2A.Z within gene bodies regulates responsive genes
+SRR520237	SRP014178	Genome-wide identification of PIF3-binding sites and direct-target genes of PIF3 transcriptional regulation in skotomorphogenesis [RNA-Seq]
+SRR520238	SRP014178	Genome-wide identification of PIF3-binding sites and direct-target genes of PIF3 transcriptional regulation in skotomorphogenesis [RNA-Seq]
+SRR520239	SRP014178	Genome-wide identification of PIF3-binding sites and direct-target genes of PIF3 transcriptional regulation in skotomorphogenesis [RNA-Seq]
+SRR520240	SRP014178	Genome-wide identification of PIF3-binding sites and direct-target genes of PIF3 transcriptional regulation in skotomorphogenesis [RNA-Seq]
+SRR520241	SRP014178	Genome-wide identification of PIF3-binding sites and direct-target genes of PIF3 transcriptional regulation in skotomorphogenesis [RNA-Seq]
+SRR520242	SRP014178	Genome-wide identification of PIF3-binding sites and direct-target genes of PIF3 transcriptional regulation in skotomorphogenesis [RNA-Seq]
+SRR520243	SRP014178	Genome-wide identification of PIF3-binding sites and direct-target genes of PIF3 transcriptional regulation in skotomorphogenesis [RNA-Seq]
+SRR520244	SRP014178	Genome-wide identification of PIF3-binding sites and direct-target genes of PIF3 transcriptional regulation in skotomorphogenesis [RNA-Seq]
+SRR520245	SRP014178	Genome-wide identification of PIF3-binding sites and direct-target genes of PIF3 transcriptional regulation in skotomorphogenesis [RNA-Seq]
+SRR520246	SRP014178	Genome-wide identification of PIF3-binding sites and direct-target genes of PIF3 transcriptional regulation in skotomorphogenesis [RNA-Seq]
+SRR520247	SRP014178	Genome-wide identification of PIF3-binding sites and direct-target genes of PIF3 transcriptional regulation in skotomorphogenesis [RNA-Seq]
+SRR520248	SRP014178	Genome-wide identification of PIF3-binding sites and direct-target genes of PIF3 transcriptional regulation in skotomorphogenesis [RNA-Seq]
+SRR525101	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525102	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525103	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525104	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525105	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525106	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525107	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525108	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525109	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525110	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525111	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525114	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525116	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525118	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525120	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525121	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525122	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525123	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525124	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525125	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525126	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525127	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525128	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525129	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525130	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525131	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525132	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525133	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525134	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525135	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525136	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525137	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525138	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525139	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525140	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525141	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525142	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525143	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525144	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525145	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525146	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525147	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525148	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525149	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525150	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525151	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525152	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525153	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525154	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525155	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525156	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525157	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525158	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525159	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525160	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525161	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525162	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525163	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525164	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525165	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525166	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525168	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR525170	SRP014482	Time-course RNA-seq analysis of the barley MLA1 immune receptor-mediated response to barley powdery mildew fungus Bgh in Arabidopsis thaliana
+SRR837534	SRP014318	PIN6 and MYB57 in Arabidopsis thaliana nectaries 
+SRR837535	SRP014318	PIN6 and MYB57 in Arabidopsis thaliana nectaries 
+SRR837536	SRP014318	PIN6 and MYB57 in Arabidopsis thaliana nectaries 
+SRR1763900	SRP014794	Small RNA sequencing from Arabidopsis adult leaves and profiling of Arabidopsis transcripts in response to flg22 peptide
+SRR546147	SRP014970	Functional analysis of Arabidopsis ARGONAUTE1 using a slicer-defective mutant: Transcript immunoprecipitation
+SRR578940	SRP015983	DDM1 and RdDM are the major regulators of transposon DNA methylation in Arabidopsis
+SRR578941	SRP015983	DDM1 and RdDM are the major regulators of transposon DNA methylation in Arabidopsis
+SRR578942	SRP015983	DDM1 and RdDM are the major regulators of transposon DNA methylation in Arabidopsis
+SRR578943	SRP015983	DDM1 and RdDM are the major regulators of transposon DNA methylation in Arabidopsis
+SRR578944	SRP015983	DDM1 and RdDM are the major regulators of transposon DNA methylation in Arabidopsis
+SRR578945	SRP015983	DDM1 and RdDM are the major regulators of transposon DNA methylation in Arabidopsis
+SRR578946	SRP015983	DDM1 and RdDM are the major regulators of transposon DNA methylation in Arabidopsis
+SRR578947	SRP015983	DDM1 and RdDM are the major regulators of transposon DNA methylation in Arabidopsis
+SRR578948	SRP015983	DDM1 and RdDM are the major regulators of transposon DNA methylation in Arabidopsis
+SRR584115	SRP016025	Nonsense-mediated decay of alternative precursor mRNA splicing variants is a major determinant of the eukaryotic steady state transcriptome
+SRR584116	SRP016025	Nonsense-mediated decay of alternative precursor mRNA splicing variants is a major determinant of the eukaryotic steady state transcriptome
+SRR584117	SRP016025	Nonsense-mediated decay of alternative precursor mRNA splicing variants is a major determinant of the eukaryotic steady state transcriptome
+SRR584118	SRP016025	Nonsense-mediated decay of alternative precursor mRNA splicing variants is a major determinant of the eukaryotic steady state transcriptome
+SRR584119	SRP016025	Nonsense-mediated decay of alternative precursor mRNA splicing variants is a major determinant of the eukaryotic steady state transcriptome
+SRR584120	SRP016025	Nonsense-mediated decay of alternative precursor mRNA splicing variants is a major determinant of the eukaryotic steady state transcriptome
+SRR584121	SRP016025	Nonsense-mediated decay of alternative precursor mRNA splicing variants is a major determinant of the eukaryotic steady state transcriptome
+SRR584122	SRP016025	Nonsense-mediated decay of alternative precursor mRNA splicing variants is a major determinant of the eukaryotic steady state transcriptome
+SRR584123	SRP016025	Nonsense-mediated decay of alternative precursor mRNA splicing variants is a major determinant of the eukaryotic steady state transcriptome
+SRR584124	SRP016025	Nonsense-mediated decay of alternative precursor mRNA splicing variants is a major determinant of the eukaryotic steady state transcriptome
+SRR584125	SRP016025	Nonsense-mediated decay of alternative precursor mRNA splicing variants is a major determinant of the eukaryotic steady state transcriptome
+SRR584126	SRP016025	Nonsense-mediated decay of alternative precursor mRNA splicing variants is a major determinant of the eukaryotic steady state transcriptome
+SRR584127	SRP016026	Polypyrimidine tract-binding protein homologues from Arabidopsis are key regulators of alternative splicing with implications in fundamental developmental processes
+SRR584128	SRP016026	Polypyrimidine tract-binding protein homologues from Arabidopsis are key regulators of alternative splicing with implications in fundamental developmental processes
+SRR584129	SRP016026	Polypyrimidine tract-binding protein homologues from Arabidopsis are key regulators of alternative splicing with implications in fundamental developmental processes
+SRR584130	SRP016026	Polypyrimidine tract-binding protein homologues from Arabidopsis are key regulators of alternative splicing with implications in fundamental developmental processes
+SRR584131	SRP016026	Polypyrimidine tract-binding protein homologues from Arabidopsis are key regulators of alternative splicing with implications in fundamental developmental processes
+SRR584132	SRP016026	Polypyrimidine tract-binding protein homologues from Arabidopsis are key regulators of alternative splicing with implications in fundamental developmental processes
+SRR584133	SRP016026	Polypyrimidine tract-binding protein homologues from Arabidopsis are key regulators of alternative splicing with implications in fundamental developmental processes
+SRR584134	SRP016026	Polypyrimidine tract-binding protein homologues from Arabidopsis are key regulators of alternative splicing with implications in fundamental developmental processes
+SRR584135	SRP016026	Polypyrimidine tract-binding protein homologues from Arabidopsis are key regulators of alternative splicing with implications in fundamental developmental processes
+SRR584136	SRP016026	Polypyrimidine tract-binding protein homologues from Arabidopsis are key regulators of alternative splicing with implications in fundamental developmental processes
+SRR584137	SRP016026	Polypyrimidine tract-binding protein homologues from Arabidopsis are key regulators of alternative splicing with implications in fundamental developmental processes
+SRR605657	SRP016591	A triple-HLH/bHLH Cascade Controls Cell Elongation Downstream of Multiple Hormonal and Environmental Signaling Pathways
+SRR605658	SRP016591	A triple-HLH/bHLH Cascade Controls Cell Elongation Downstream of Multiple Hormonal and Environmental Signaling Pathways
+SRR605659	SRP016591	A triple-HLH/bHLH Cascade Controls Cell Elongation Downstream of Multiple Hormonal and Environmental Signaling Pathways
+SRR605660	SRP016591	A triple-HLH/bHLH Cascade Controls Cell Elongation Downstream of Multiple Hormonal and Environmental Signaling Pathways
+SRR605661	SRP016591	A triple-HLH/bHLH Cascade Controls Cell Elongation Downstream of Multiple Hormonal and Environmental Signaling Pathways
+SRR627629	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627630	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627631	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627632	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627633	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627634	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627635	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627636	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627637	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627638	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627639	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627640	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627641	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627642	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627643	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627644	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627645	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627646	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627647	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627648	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627649	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627650	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627651	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627652	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627653	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627654	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627655	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627656	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627657	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627658	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627659	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627660	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627661	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627662	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627663	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627664	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627665	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627666	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627667	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627668	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627669	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627670	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627671	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627672	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627673	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627674	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627675	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627676	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627677	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627678	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627680	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627681	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627682	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627683	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627684	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627686	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627687	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR627688	SRP017386	Transcriptome-wide analysis of gene expression in dark-grown WT and pif mutant seedlings
+SRR631035	SRP017541	Magnesium Availability Regulates Development of Root Hairs in Arabidopsis thaliana
+SRR631047	SRP017543	NOT2 proteins promote Pol II-dependent transcription and interact with multiple miRNA biogenesis factors in Arabidopsis
+SRR631048	SRP017543	NOT2 proteins promote Pol II-dependent transcription and interact with multiple miRNA biogenesis factors in Arabidopsis
+SRR634969	SRP017587	Differentially regulated genes in TOR knockdown Arabidopsis lines
+SRR634970	SRP017587	Differentially regulated genes in TOR knockdown Arabidopsis lines
+SRR634971	SRP017587	Differentially regulated genes in TOR knockdown Arabidopsis lines
+SRR634972	SRP017587	Differentially regulated genes in TOR knockdown Arabidopsis lines
+SRR634973	SRP017587	Differentially regulated genes in TOR knockdown Arabidopsis lines
+SRR634974	SRP017587	Differentially regulated genes in TOR knockdown Arabidopsis lines
+SRR826283	SRP021005	Gene Expression in Arabidopsis thaliana Guard Cells
+SRR826412	SRP021005	Gene Expression in Arabidopsis thaliana Guard Cells
+SRR649737	SRP018003	Allele-specific expression in A. thaliana hybrids grown under control and drought stress conditions
+SRR649738	SRP018003	Allele-specific expression in A. thaliana hybrids grown under control and drought stress conditions
+SRR649739	SRP018003	Allele-specific expression in A. thaliana hybrids grown under control and drought stress conditions
+SRR649740	SRP018003	Allele-specific expression in A. thaliana hybrids grown under control and drought stress conditions
+SRR649741	SRP018003	Allele-specific expression in A. thaliana hybrids grown under control and drought stress conditions
+SRR649742	SRP018003	Allele-specific expression in A. thaliana hybrids grown under control and drought stress conditions
+SRR649743	SRP018003	Allele-specific expression in A. thaliana hybrids grown under control and drought stress conditions
+SRR649744	SRP018003	Allele-specific expression in A. thaliana hybrids grown under control and drought stress conditions
+SRR649745	SRP018003	Allele-specific expression in A. thaliana hybrids grown under control and drought stress conditions
+SRR649746	SRP018003	Allele-specific expression in A. thaliana hybrids grown under control and drought stress conditions
+SRR649747	SRP018003	Allele-specific expression in A. thaliana hybrids grown under control and drought stress conditions
+SRR653555	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653556	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653557	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653558	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653559	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653560	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653562	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653564	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653565	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653567	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653569	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653571	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653573	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653574	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653575	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653576	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653578	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653579	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653580	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653581	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653583	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653584	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653587	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653589	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653592	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653595	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR653596	SRP018266	Genome-wide analysis of LINK1 and LINK2 effects on the Arabidopsis transcriptome
+SRR656215	SRP018358	Genome-wide analysis reveals CLF-regulated transcripts in Arabidopsis
+SRR656216	SRP018358	Genome-wide analysis reveals CLF-regulated transcripts in Arabidopsis
+SRR656217	SRP018358	Genome-wide analysis reveals CLF-regulated transcripts in Arabidopsis
+SRR656218	SRP018358	Genome-wide analysis reveals CLF-regulated transcripts in Arabidopsis
+SRR656219	SRP018358	Genome-wide analysis reveals CLF-regulated transcripts in Arabidopsis
+SRR656220	SRP018358	Genome-wide analysis reveals CLF-regulated transcripts in Arabidopsis
+SRR656221	SRP018358	Genome-wide analysis reveals CLF-regulated transcripts in Arabidopsis
+SRR656222	SRP018358	Genome-wide analysis reveals CLF-regulated transcripts in Arabidopsis
+SRR764885	SRP018842	High-throughput RNA sequencing analysis of WT, rdm16-2 and sta1 mutants
+SRR764886	SRP018842	High-throughput RNA sequencing analysis of WT, rdm16-2 and sta1 mutants
+SRR764887	SRP018842	High-throughput RNA sequencing analysis of WT, rdm16-2 and sta1 mutants
+SRR776583	SRP019502	Genome-wide analysis of SPL7 regulated genes in Arabidopsis
+SRR776584	SRP019502	Genome-wide analysis of SPL7 regulated genes in Arabidopsis
+SRR776585	SRP019502	Genome-wide analysis of SPL7 regulated genes in Arabidopsis
+SRR776586	SRP019502	Genome-wide analysis of SPL7 regulated genes in Arabidopsis
+SRR797194	SRP019997	Identification of Cytokinin-Responsive Genes Using Microarray Meta-Analysis and RNA-Seq in Arabidopsis
+SRR797230	SRP019997	Identification of Cytokinin-Responsive Genes Using Microarray Meta-Analysis and RNA-Seq in Arabidopsis
+SRR797231	SRP019997	Identification of Cytokinin-Responsive Genes Using Microarray Meta-Analysis and RNA-Seq in Arabidopsis
+SRR797240	SRP019997	Identification of Cytokinin-Responsive Genes Using Microarray Meta-Analysis and RNA-Seq in Arabidopsis
+SRR797241	SRP019997	Identification of Cytokinin-Responsive Genes Using Microarray Meta-Analysis and RNA-Seq in Arabidopsis
+SRR833246	SRP019997	Identification of Cytokinin-Responsive Genes Using Microarray Meta-Analysis and RNA-Seq in Arabidopsis
+SRR1610478	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610479	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610480	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610481	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610482	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610483	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610484	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610485	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610486	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610487	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610488	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610489	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610490	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610491	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610492	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610493	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610494	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610495	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610496	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610497	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610498	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610499	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610500	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610501	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610502	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610503	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610504	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610505	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610506	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610507	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR1610508	SRP021196	RNA-Seq of single cells from the Arabidopsis root
+SRR847501	SRP022162	High-throughput sequencing of Arabidopsis thaliana pollen cDNA uncovers novel transcription and alternative splicing
+SRR847502	SRP022162	High-throughput sequencing of Arabidopsis thaliana pollen cDNA uncovers novel transcription and alternative splicing
+SRR847503	SRP022162	High-throughput sequencing of Arabidopsis thaliana pollen cDNA uncovers novel transcription and alternative splicing
+SRR847504	SRP022162	High-throughput sequencing of Arabidopsis thaliana pollen cDNA uncovers novel transcription and alternative splicing
+SRR847505	SRP022162	High-throughput sequencing of Arabidopsis thaliana pollen cDNA uncovers novel transcription and alternative splicing
+SRR847506	SRP022162	High-throughput sequencing of Arabidopsis thaliana pollen cDNA uncovers novel transcription and alternative splicing
+SRR907283	SRP026082	SAD1 dynamically regulates alternative splicing and stress tolerance
+SRR907284	SRP026082	SAD1 dynamically regulates alternative splicing and stress tolerance
+SRR907286	SRP026082	SAD1 dynamically regulates alternative splicing and stress tolerance
+SRR907287	SRP026082	SAD1 dynamically regulates alternative splicing and stress tolerance
+SRR907307	SRP026082	SAD1 dynamically regulates alternative splicing and stress tolerance
+SRR907308	SRP026082	SAD1 dynamically regulates alternative splicing and stress tolerance
+SRR902025	SRP026114	mRNA-Seq of asi1-1, wild-type and MethlyC-Seq of asi1-1
+SRR902026	SRP026114	mRNA-Seq of asi1-1, wild-type and MethlyC-Seq of asi1-1
+SRR921311	SRP026260	Four distinct types of dehydration stress memory genes in Arabidopsis thaliana
+SRR921312	SRP026260	Four distinct types of dehydration stress memory genes in Arabidopsis thaliana
+SRR921313	SRP026260	Four distinct types of dehydration stress memory genes in Arabidopsis thaliana
+SRR921314	SRP026260	Four distinct types of dehydration stress memory genes in Arabidopsis thaliana
+SRR921315	SRP026260	Four distinct types of dehydration stress memory genes in Arabidopsis thaliana
+SRR921316	SRP026260	Four distinct types of dehydration stress memory genes in Arabidopsis thaliana
+SRR924656	SRP026486	Epigenetic memory mediated by HDA6, Pol IV and Pol V in Arabidopsis.
+SRR924658	SRP026486	Epigenetic memory mediated by HDA6, Pol IV and Pol V in Arabidopsis.
+SRR924659	SRP026486	Epigenetic memory mediated by HDA6, Pol IV and Pol V in Arabidopsis.
+SRR924660	SRP026486	Epigenetic memory mediated by HDA6, Pol IV and Pol V in Arabidopsis.
+SRR924661	SRP026486	Epigenetic memory mediated by HDA6, Pol IV and Pol V in Arabidopsis.
+SRR925686	SRP026486	Epigenetic memory mediated by HDA6, Pol IV and Pol V in Arabidopsis.
+SRR926197	SRP026541	Arabidopsis thaliana strain:Col-0Transcriptome or Gene expression
+SRR926200	SRP026541	Arabidopsis thaliana strain:Col-0Transcriptome or Gene expression
+SRR926211	SRP026541	Arabidopsis thaliana strain:Col-0Transcriptome or Gene expression
+SRR933556	SRP027216	In vivo genome-wide profiling of RNA secondary structure reveals novel regulatory features
+SRR1307153	SRP026703	Arabidopsis phytochrome A directly targets numerous promoters for individualized modulation of genes in wide range of pathways [RNA-seq]
+SRR1307154	SRP026703	Arabidopsis phytochrome A directly targets numerous promoters for individualized modulation of genes in wide range of pathways [RNA-seq]
+SRR1307155	SRP026703	Arabidopsis phytochrome A directly targets numerous promoters for individualized modulation of genes in wide range of pathways [RNA-seq]
+SRR1307156	SRP026703	Arabidopsis phytochrome A directly targets numerous promoters for individualized modulation of genes in wide range of pathways [RNA-seq]
+SRR1307157	SRP026703	Arabidopsis phytochrome A directly targets numerous promoters for individualized modulation of genes in wide range of pathways [RNA-seq]
+SRR1307158	SRP026703	Arabidopsis phytochrome A directly targets numerous promoters for individualized modulation of genes in wide range of pathways [RNA-seq]
+SRR934391	SRP027369	Total transcriptome profiling of the Atclb1-1 loss of function mutant and wild type of Arabidopsis
+SRR934392	SRP027369	Total transcriptome profiling of the Atclb1-1 loss of function mutant and wild type of Arabidopsis
+SRR942022	SRP028132	Interplay Between Active Chromatin Marks and RNA-directed DNA Methylation in Arabidopsis thaliana
+SRR942023	SRP028132	Interplay Between Active Chromatin Marks and RNA-directed DNA Methylation in Arabidopsis thaliana
+SRR942024	SRP028132	Interplay Between Active Chromatin Marks and RNA-directed DNA Methylation in Arabidopsis thaliana
+SRR942025	SRP028132	Interplay Between Active Chromatin Marks and RNA-directed DNA Methylation in Arabidopsis thaliana
+SRR946018	SRP028359	GSE49408: Widespread alternative splicing contributes to the gene regulation, translation diversity and Arabidopsis photomorphogenesis [seq]
+SRR946019	SRP028359	GSE49408: Widespread alternative splicing contributes to the gene regulation, translation diversity and Arabidopsis photomorphogenesis [seq]
+SRR946020	SRP028359	GSE49408: Widespread alternative splicing contributes to the gene regulation, translation diversity and Arabidopsis photomorphogenesis [seq]
+SRR946021	SRP028359	GSE49408: Widespread alternative splicing contributes to the gene regulation, translation diversity and Arabidopsis photomorphogenesis [seq]
+SRR953028	SRP028855	Arabidopsis thaliana Transcriptome or Gene expression
+SRR953029	SRP028855	Arabidopsis thaliana Transcriptome or Gene expression
+SRR953033	SRP028855	Arabidopsis thaliana Transcriptome or Gene expression
+SRR953034	SRP028855	Arabidopsis thaliana Transcriptome or Gene expression
+SRR953370	SRP028855	Arabidopsis thaliana Transcriptome or Gene expression
+SRR953399	SRP028878	Transcriptome profiling of Arabidopsis using strand-specific RNA-seq
+SRR953400	SRP028878	Transcriptome profiling of Arabidopsis using strand-specific RNA-seq
+SRR953401	SRP028878	Transcriptome profiling of Arabidopsis using strand-specific RNA-seq
+SRR988010	SRP029957	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR988011	SRP029957	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR988012	SRP029957	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR988013	SRP029957	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR988015	SRP029957	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR988016	SRP029957	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR988017	SRP029957	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR988018	SRP029957	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR988019	SRP029957	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR988020	SRP029957	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR988021	SRP029957	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR988022	SRP029957	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1004791	SRP029637	Arabidopsis thaliana tanorexia-1 transcriptome profiling
+SRR1004829	SRP029637	Arabidopsis thaliana tanorexia-1 transcriptome profiling
+SRR1004830	SRP029637	Arabidopsis thaliana tanorexia-1 transcriptome profiling
+SRR1004834	SRP029637	Arabidopsis thaliana tanorexia-1 transcriptome profiling
+SRR971148	SRP029598	Arabidopsis thaliana Transcriptome under Salt Stress
+SRR975488	SRP029598	Arabidopsis thaliana Transcriptome under Salt Stress
+SRR976160	SRP029598	Arabidopsis thaliana Transcriptome under Salt Stress
+SRR978410	SRP029598	Arabidopsis thaliana Transcriptome under Salt Stress
+SRR970149	SRP029606	Genome-wide profiling  of H3K4me3 and H3K27me3 enrichment and mRNA levels in young leaves of Arabidopsis thaliana
+SRR976391	SRP029896	RNA-Seq analysis of Arabidopsis seedlings undergoing cold stress treatment
+SRR976394	SRP029896	RNA-Seq analysis of Arabidopsis seedlings undergoing cold stress treatment
+SRR976397	SRP029896	RNA-Seq analysis of Arabidopsis seedlings undergoing cold stress treatment
+SRR976398	SRP029896	RNA-Seq analysis of Arabidopsis seedlings undergoing cold stress treatment
+SRR988549	SRP029997	The Histone Variant H2A.W Defines Heterochromatin and Promotes Chromatin Condensation in Arabidopsis
+SRR988550	SRP029997	The Histone Variant H2A.W Defines Heterochromatin and Promotes Chromatin Condensation in Arabidopsis
+SRR1001901	SRP030399	A basic helix-loop-helix transcription factors network mediates the brassinosteroid signal [RNA-seq]
+SRR1001903	SRP030399	A basic helix-loop-helix transcription factors network mediates the brassinosteroid signal [RNA-seq]
+SRR1001904	SRP030399	A basic helix-loop-helix transcription factors network mediates the brassinosteroid signal [RNA-seq]
+SRR1001905	SRP030399	A basic helix-loop-helix transcription factors network mediates the brassinosteroid signal [RNA-seq]
+SRR1001906	SRP030399	A basic helix-loop-helix transcription factors network mediates the brassinosteroid signal [RNA-seq]
+SRR1001907	SRP030399	A basic helix-loop-helix transcription factors network mediates the brassinosteroid signal [RNA-seq]
+SRR1001908	SRP030399	A basic helix-loop-helix transcription factors network mediates the brassinosteroid signal [RNA-seq]
+SRR1001910	SRP030399	A basic helix-loop-helix transcription factors network mediates the brassinosteroid signal [RNA-seq]
+SRR1005385	SRP030646	Non-CG methylation patterns shape the epigenetic landscape in Arabidopsis
+SRR1005386	SRP030646	Non-CG methylation patterns shape the epigenetic landscape in Arabidopsis
+SRR1005387	SRP030646	Non-CG methylation patterns shape the epigenetic landscape in Arabidopsis
+SRR1005388	SRP030646	Non-CG methylation patterns shape the epigenetic landscape in Arabidopsis
+SRR1005389	SRP030646	Non-CG methylation patterns shape the epigenetic landscape in Arabidopsis
+SRR1005390	SRP030646	Non-CG methylation patterns shape the epigenetic landscape in Arabidopsis
+SRR1005391	SRP030646	Non-CG methylation patterns shape the epigenetic landscape in Arabidopsis
+SRR1005392	SRP030646	Non-CG methylation patterns shape the epigenetic landscape in Arabidopsis
+SRR1005393	SRP030646	Non-CG methylation patterns shape the epigenetic landscape in Arabidopsis
+SRR1005394	SRP030646	Non-CG methylation patterns shape the epigenetic landscape in Arabidopsis
+SRR1005395	SRP030646	Non-CG methylation patterns shape the epigenetic landscape in Arabidopsis
+SRR1005396	SRP030646	Non-CG methylation patterns shape the epigenetic landscape in Arabidopsis
+SRR1005397	SRP030646	Non-CG methylation patterns shape the epigenetic landscape in Arabidopsis
+SRR1005398	SRP030646	Non-CG methylation patterns shape the epigenetic landscape in Arabidopsis
+SRR1005399	SRP030646	Non-CG methylation patterns shape the epigenetic landscape in Arabidopsis
+SRR1005400	SRP030646	Non-CG methylation patterns shape the epigenetic landscape in Arabidopsis
+SRR1005401	SRP030646	Non-CG methylation patterns shape the epigenetic landscape in Arabidopsis
+SRR1005402	SRP030646	Non-CG methylation patterns shape the epigenetic landscape in Arabidopsis
+SRR1013878	SRP031626	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1013880	SRP031626	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1013881	SRP031626	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1013882	SRP031626	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1013885	SRP031626	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1013886	SRP031626	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1013887	SRP031626	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1013890	SRP031626	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1013891	SRP031626	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1013894	SRP031626	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1013899	SRP031626	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1013900	SRP031626	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1013912	SRP031626	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1013913	SRP031626	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1013915	SRP031626	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1013918	SRP031626	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1013925	SRP031626	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1019221	SRP032234	Arabidopsis EDM2 Promotes IBM1 Distal Polyadenylation and Regulates Genome DNA Methylation Patterns [RNA-Seq]
+SRR1019222	SRP032234	Arabidopsis EDM2 Promotes IBM1 Distal Polyadenylation and Regulates Genome DNA Methylation Patterns [RNA-Seq]
+SRR1019436	SRP032274	Interactions of ARF6 with PIF4, BZR1, and RGA integrate auxin signaling with environmental and other hormonal signals in Arabidopsis [RNA-Seq]
+SRR1019437	SRP032274	Interactions of ARF6 with PIF4, BZR1, and RGA integrate auxin signaling with environmental and other hormonal signals in Arabidopsis [RNA-Seq]
+SRR1019438	SRP032274	Interactions of ARF6 with PIF4, BZR1, and RGA integrate auxin signaling with environmental and other hormonal signals in Arabidopsis [RNA-Seq]
+SRR1019439	SRP032274	Interactions of ARF6 with PIF4, BZR1, and RGA integrate auxin signaling with environmental and other hormonal signals in Arabidopsis [RNA-Seq]
+SRR1019440	SRP032274	Interactions of ARF6 with PIF4, BZR1, and RGA integrate auxin signaling with environmental and other hormonal signals in Arabidopsis [RNA-Seq]
+SRR1019441	SRP032274	Interactions of ARF6 with PIF4, BZR1, and RGA integrate auxin signaling with environmental and other hormonal signals in Arabidopsis [RNA-Seq]
+SRR1019442	SRP032274	Interactions of ARF6 with PIF4, BZR1, and RGA integrate auxin signaling with environmental and other hormonal signals in Arabidopsis [RNA-Seq]
+SRR1019443	SRP032274	Interactions of ARF6 with PIF4, BZR1, and RGA integrate auxin signaling with environmental and other hormonal signals in Arabidopsis [RNA-Seq]
+SRR1020621	SRP032366	Transcriptomic analysis of WT and larp1 mutant 21 days old seedling at 20°C or following a heat stress (15 min at 38°C)
+SRR1020622	SRP032366	Transcriptomic analysis of WT and larp1 mutant 21 days old seedling at 20°C or following a heat stress (15 min at 38°C)
+SRR1020623	SRP032366	Transcriptomic analysis of WT and larp1 mutant 21 days old seedling at 20°C or following a heat stress (15 min at 38°C)
+SRR1020624	SRP032366	Transcriptomic analysis of WT and larp1 mutant 21 days old seedling at 20°C or following a heat stress (15 min at 38°C)
+SRR1037375	SRP032990	Hi-C map of the three-dimensional genome organization
+SRR1037376	SRP032990	Hi-C map of the three-dimensional genome organization SRR1029908
+SRR1039910	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1039911	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1039912	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1039913	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1039914	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1039915	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1039916	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1039917	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1039918	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1039919	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1039920	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1039921	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1039922	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1039923	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1039924	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1039925	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1039926	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1039927	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1039928	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1039929	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1508238	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1508239	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1508240	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1508241	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1508242	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1508243	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1508244	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1508245	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1508246	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1508247	SRP033371	Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting: allele specific mRNA-seq expression profiling in Arabidopsis thaliana Col, Ler, and Cvi parental and reciprocal F1 hybrid embryo and endosperm
+SRR1044945	SRP033573	HBI1 integrates hormonal and environmental signals to regulate the trade-off between growth and immunity (RNA-seq)
+SRR1044946	SRP033573	HBI1 integrates hormonal and environmental signals to regulate the trade-off between growth and immunity (RNA-seq)
+SRR1044947	SRP033573	HBI1 integrates hormonal and environmental signals to regulate the trade-off between growth and immunity (RNA-seq)
+SRR1044948	SRP033573	HBI1 integrates hormonal and environmental signals to regulate the trade-off between growth and immunity (RNA-seq)
+SRR1049376	SRP033777	Arabidopsis thaliana Transcriptome or Gene expression
+SRR1049377	SRP033777	Arabidopsis thaliana Transcriptome or Gene expression
+SRR1049378	SRP033777	Arabidopsis thaliana Transcriptome or Gene expression
+SRR1049380	SRP033777	Arabidopsis thaliana Transcriptome or Gene expression
+SRR1049383	SRP033777	Arabidopsis thaliana Transcriptome or Gene expression
+SRR1049384	SRP033777	Arabidopsis thaliana Transcriptome or Gene expression
+SRR1049385	SRP033777	Arabidopsis thaliana Transcriptome or Gene expression
+SRR1049386	SRP033777	Arabidopsis thaliana Transcriptome or Gene expression
+SRR1046847	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046848	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046849	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046850	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046851	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046852	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046853	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046854	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046855	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046856	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046857	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046858	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046859	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046860	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046861	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046862	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046863	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046864	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046865	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046866	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046867	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046868	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046869	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046870	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046871	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046872	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046873	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046874	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046875	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046876	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046877	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046878	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046879	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046880	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046881	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046882	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046883	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046884	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046885	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046886	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046887	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046888	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046889	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046890	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046891	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046892	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046893	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046894	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046895	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046896	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1046897	SRP033660	Multiple tissue RNA sequencing of 17 Arabidopsis thaliana MAGIC founder accessions
+SRR1049783	SRP034154	Mapping and dynamics of regulatory DNA and transcription factor networks in A. thaliana
+SRR1049784	SRP034154	Mapping and dynamics of regulatory DNA and transcription factor networks in A. thaliana
+SRR1049785	SRP034154	Mapping and dynamics of regulatory DNA and transcription factor networks in A. thaliana
+SRR1049786	SRP034154	Mapping and dynamics of regulatory DNA and transcription factor networks in A. thaliana
+SRR1049787	SRP034154	Mapping and dynamics of regulatory DNA and transcription factor networks in A. thaliana
+SRR1049788	SRP034154	Mapping and dynamics of regulatory DNA and transcription factor networks in A. thaliana
+SRR1058110	SRP034714	DNA hypomethylation bypasses the interploidy hybridization barrier in Arabidopsis
+SRR1058111	SRP034714	DNA hypomethylation bypasses the interploidy hybridization barrier in Arabidopsis
+SRR1058112	SRP034714	DNA hypomethylation bypasses the interploidy hybridization barrier in Arabidopsis
+SRR1058113	SRP034714	DNA hypomethylation bypasses the interploidy hybridization barrier in Arabidopsis
+SRR1058114	SRP034714	DNA hypomethylation bypasses the interploidy hybridization barrier in Arabidopsis
+SRR1058115	SRP034714	DNA hypomethylation bypasses the interploidy hybridization barrier in Arabidopsis
+SRR1058116	SRP034714	DNA hypomethylation bypasses the interploidy hybridization barrier in Arabidopsis
+SRR1058117	SRP034714	DNA hypomethylation bypasses the interploidy hybridization barrier in Arabidopsis
+SRR1058118	SRP034714	DNA hypomethylation bypasses the interploidy hybridization barrier in Arabidopsis
+SRR1058119	SRP034714	DNA hypomethylation bypasses the interploidy hybridization barrier in Arabidopsis
+SRR1058120	SRP034714	DNA hypomethylation bypasses the interploidy hybridization barrier in Arabidopsis
+SRR1058121	SRP034714	DNA hypomethylation bypasses the interploidy hybridization barrier in Arabidopsis
+SRR1061357	SRP034742	CATseq a comparative Arabidopsis Transcriptome - RNA-Seq part
+SRR1061358	SRP034742	CATseq a comparative Arabidopsis Transcriptome - RNA-Seq part
+SRR1061359	SRP034742	CATseq a comparative Arabidopsis Transcriptome - RNA-Seq part
+SRR1061360	SRP034742	CATseq a comparative Arabidopsis Transcriptome - RNA-Seq part
+SRR1061361	SRP034742	CATseq a comparative Arabidopsis Transcriptome - RNA-Seq part
+SRR1061362	SRP034742	CATseq a comparative Arabidopsis Transcriptome - RNA-Seq part
+SRR1061363	SRP034742	CATseq a comparative Arabidopsis Transcriptome - RNA-Seq part
+SRR1061364	SRP034742	CATseq a comparative Arabidopsis Transcriptome - RNA-Seq part
+SRR1061365	SRP034742	CATseq a comparative Arabidopsis Transcriptome - RNA-Seq part
+SRR1104133	SRP035234	Arabidopsis thalianaTranscriptome or Gene expression
+SRR1104134	SRP035234	Arabidopsis thalianaTranscriptome or Gene expression
+SRR1104136	SRP035234	Arabidopsis thalianaTranscriptome or Gene expression
+SRR1105822	SRP035272	Arabidopsis thaliana strain:Columbia 0Transcriptome or Gene expression
+SRR1105823	SRP035272	Arabidopsis thaliana strain:Columbia 0Transcriptome or Gene expression
+SRR1105824	SRP035272	Arabidopsis thaliana strain:Columbia 0Transcriptome or Gene expression
+SRR1105825	SRP035272	Arabidopsis thaliana strain:Columbia 0Transcriptome or Gene expression
+SRR1105826	SRP035272	Arabidopsis thaliana strain:Columbia 0Transcriptome or Gene expression
+SRR1105827	SRP035272	Arabidopsis thaliana strain:Columbia 0Transcriptome or Gene expression
+SRR1105828	SRP035272	Arabidopsis thaliana strain:Columbia 0Transcriptome or Gene expression
+SRR1105829	SRP035272	Arabidopsis thaliana strain:Columbia 0Transcriptome or Gene expression
+SRR1105830	SRP035272	Arabidopsis thaliana strain:Columbia 0Transcriptome or Gene expression
+SRR1105831	SRP035272	Arabidopsis thaliana strain:Columbia 0Transcriptome or Gene expression
+SRR1105832	SRP035272	Arabidopsis thaliana strain:Columbia 0Transcriptome or Gene expression
+SRR1106559	SRP035272	Arabidopsis thaliana strain:Columbia 0Transcriptome or Gene expression
+SRR1105580	SRP035269	RNASeq of Developing Arabidopsis Seeds Producing Hydroxy-Fatty Acids
+SRR1105583	SRP035269	RNASeq of Developing Arabidopsis Seeds Producing Hydroxy-Fatty Acids
+SRR1105584	SRP035269	RNASeq of Developing Arabidopsis Seeds Producing Hydroxy-Fatty Acids
+SRR1105585	SRP035269	RNASeq of Developing Arabidopsis Seeds Producing Hydroxy-Fatty Acids
+SRR1105586	SRP035269	RNASeq of Developing Arabidopsis Seeds Producing Hydroxy-Fatty Acids
+SRR1105587	SRP035269	RNASeq of Developing Arabidopsis Seeds Producing Hydroxy-Fatty Acids
+SRR1105588	SRP035269	RNASeq of Developing Arabidopsis Seeds Producing Hydroxy-Fatty Acids
+SRR1105589	SRP035269	RNASeq of Developing Arabidopsis Seeds Producing Hydroxy-Fatty Acids
+SRR1105590	SRP035269	RNASeq of Developing Arabidopsis Seeds Producing Hydroxy-Fatty Acids
+SRR1105592	SRP035269	RNASeq of Developing Arabidopsis Seeds Producing Hydroxy-Fatty Acids
+SRR1105596	SRP035269	RNASeq of Developing Arabidopsis Seeds Producing Hydroxy-Fatty Acids
+SRR1105597	SRP035269	RNASeq of Developing Arabidopsis Seeds Producing Hydroxy-Fatty Acids
+SRR1105598	SRP035269	RNASeq of Developing Arabidopsis Seeds Producing Hydroxy-Fatty Acids
+SRR1105599	SRP035269	RNASeq of Developing Arabidopsis Seeds Producing Hydroxy-Fatty Acids
+SRR1105601	SRP035269	RNASeq of Developing Arabidopsis Seeds Producing Hydroxy-Fatty Acids
+SRR1105603	SRP035269	RNASeq of Developing Arabidopsis Seeds Producing Hydroxy-Fatty Acids
+SRR1105604	SRP035269	RNASeq of Developing Arabidopsis Seeds Producing Hydroxy-Fatty Acids
+SRR1105605	SRP035269	RNASeq of Developing Arabidopsis Seeds Producing Hydroxy-Fatty Acids
+SRR1105606	SRP035269	RNASeq of Developing Arabidopsis Seeds Producing Hydroxy-Fatty Acids
+SRR1138692	SRP035589	Arabidopsis thaliana CPL3 RNASeq
+SRR1138693	SRP035589	Arabidopsis thaliana CPL3 RNASeq
+SRR1138695	SRP035589	Arabidopsis thaliana CPL3 RNASeq
+SRR1138698	SRP035589	Arabidopsis thaliana CPL3 RNASeq
+SRR1138699	SRP035589	Arabidopsis thaliana CPL3 RNASeq
+SRR1138700	SRP035589	Arabidopsis thaliana CPL3 RNASeq
+SRR1138701	SRP035589	Arabidopsis thaliana CPL3 RNASeq
+SRR1144842	SRP035849	Genome-wide transcriptome analysis of explant regeneration in be1-3
+SRR1144843	SRP035849	Genome-wide transcriptome analysis of explant regeneration in be1-3
+SRR1159821	SRP036525	Transcriptional gene silencing by Arabidopsis Microrchidia homologues involves the formation of heteromers
+SRR1159822	SRP036525	Transcriptional gene silencing by Arabidopsis Microrchidia homologues involves the formation of heteromers
+SRR1159823	SRP036525	Transcriptional gene silencing by Arabidopsis Microrchidia homologues involves the formation of heteromers
+SRR1159824	SRP036525	Transcriptional gene silencing by Arabidopsis Microrchidia homologues involves the formation of heteromers
+SRR1159825	SRP036525	Transcriptional gene silencing by Arabidopsis Microrchidia homologues involves the formation of heteromers
+SRR1159826	SRP036525	Transcriptional gene silencing by Arabidopsis Microrchidia homologues involves the formation of heteromers
+SRR1159828	SRP036525	Transcriptional gene silencing by Arabidopsis Microrchidia homologues involves the formation of heteromers
+SRR1159830	SRP036525	Transcriptional gene silencing by Arabidopsis Microrchidia homologues involves the formation of heteromers
+SRR1159831	SRP036525	Transcriptional gene silencing by Arabidopsis Microrchidia homologues involves the formation of heteromers
+SRR1159832	SRP036525	Transcriptional gene silencing by Arabidopsis Microrchidia homologues involves the formation of heteromers
+SRR1159833	SRP036525	Transcriptional gene silencing by Arabidopsis Microrchidia homologues involves the formation of heteromers
+SRR1159834	SRP036525	Transcriptional gene silencing by Arabidopsis Microrchidia homologues involves the formation of heteromers
+SRR1159835	SRP036525	Transcriptional gene silencing by Arabidopsis Microrchidia homologues involves the formation of heteromers
+SRR1159836	SRP036525	Transcriptional gene silencing by Arabidopsis Microrchidia homologues involves the formation of heteromers
+SRR1159838	SRP036525	Transcriptional gene silencing by Arabidopsis Microrchidia homologues involves the formation of heteromers
+SRR1170682	SRP037984	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1984527	SRP037984	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1984528	SRP037984	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1984530	SRP037984	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1984531	SRP037984	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1984532	SRP037984	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1984535	SRP037984	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1984536	SRP037984	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1984538	SRP037984	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1984540	SRP037984	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1984541	SRP037984	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1984543	SRP037984	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1984544	SRP037984	Arabidopsis thaliana strain:Columbia-0Transcriptome or Gene expression
+SRR1260032	SRP040597	Arabidopsis thaliana strain:Col-0Transcriptome or Gene expression
+SRR1260033	SRP040597	Arabidopsis thaliana strain:Col-0Transcriptome or Gene expression
+SRR1260035	SRP040597	Arabidopsis thaliana strain:Col-0Transcriptome or Gene expression
+SRR1260036	SRP040597	Arabidopsis thaliana strain:Col-0Transcriptome or Gene expression
+SRR1260037	SRP040597	Arabidopsis thaliana strain:Col-0Transcriptome or Gene expression
+SRR1260038	SRP040597	Arabidopsis thaliana strain:Col-0Transcriptome or Gene expression
+SRR1286088	SRP040597	Arabidopsis thaliana strain:Col-0Transcriptome or Gene expression
+SRR1179956	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179957	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179958	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179959	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179960	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179961	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179962	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179963	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179964	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179965	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179966	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179967	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179968	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179969	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179970	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179971	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179972	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179973	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179974	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179975	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179976	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179977	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179978	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179979	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179980	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179981	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179982	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179983	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179984	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179985	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179988	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179989	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179990	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179991	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179992	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179993	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179994	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179995	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179996	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179997	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179998	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1179999	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1180000	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1180001	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1180002	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1180003	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1180004	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1180005	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1180007	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1180008	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1180009	SRP039091	Transcriptomes for hybrids (F1s) between 18 Arabidopsis thaliana parents of the Multiparent Advanced Generation Inter-Cross (MAGIC) genetic mapping resource
+SRR1192255	SRP040120	Transcriptome profiling of Arabidopsis smg7 mutant in immune signaling blocked background
+SRR1192256	SRP040120	Transcriptome profiling of Arabidopsis smg7 mutant in immune signaling blocked background
+SRR1192257	SRP040120	Transcriptome profiling of Arabidopsis smg7 mutant in immune signaling blocked background
+SRR1192258	SRP040120	Transcriptome profiling of Arabidopsis smg7 mutant in immune signaling blocked background
+SRR1192259	SRP040120	Transcriptome profiling of Arabidopsis smg7 mutant in immune signaling blocked background
+SRR1192260	SRP040120	Transcriptome profiling of Arabidopsis smg7 mutant in immune signaling blocked background
+SRR1207194	SRP040674	RNAseq analysis of NGATHA loss and gain of function alleles
+SRR1207195	SRP040674	RNAseq analysis of NGATHA loss and gain of function alleles
+SRR1207196	SRP040674	RNAseq analysis of NGATHA loss and gain of function alleles
+SRR1207197	SRP040674	RNAseq analysis of NGATHA loss and gain of function alleles
+SRR1207198	SRP040674	RNAseq analysis of NGATHA loss and gain of function alleles
+SRR1207199	SRP040674	RNAseq analysis of NGATHA loss and gain of function alleles
+SRR1207200	SRP040674	RNAseq analysis of NGATHA loss and gain of function alleles
+SRR1207201	SRP040674	RNAseq analysis of NGATHA loss and gain of function alleles
+SRR1238088	SRP041167	Arabidopsis thaliana leaf tissue Transcriptome under normal and low CO2 environment
+SRR1264830	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264831	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264832	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264833	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264834	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264835	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264836	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264837	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264838	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264839	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264840	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264841	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264842	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264843	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264844	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264845	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264846	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264847	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264848	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264849	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264850	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264851	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264852	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264853	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264854	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264855	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264856	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264857	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264858	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264859	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264860	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264861	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264862	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264863	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264864	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264865	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264866	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264867	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264868	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264869	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264870	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264871	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264872	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264873	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264874	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264875	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264876	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264877	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264878	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264879	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264880	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264881	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264882	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264883	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264884	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264885	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264886	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264887	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264888	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264889	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264890	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264891	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264892	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264893	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264894	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264895	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264896	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264897	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264898	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264899	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264900	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264901	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264902	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264903	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264904	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264905	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264906	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264907	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264908	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264909	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264910	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264911	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1264912	SRP041507	Fine kinetic transcriptome analysis during jasmonate signaling
+SRR1290846	SRP042060	Arabidopsis thaliana
+SRR1290847	SRP042060	Arabidopsis thaliana
+SRR1290848	SRP042060	Arabidopsis thaliana
+SRR1290850	SRP042060	Arabidopsis thaliana
+SRR1290851	SRP042060	Arabidopsis thaliana
+SRR1290852	SRP042060	Arabidopsis thaliana
+SRR1257405	SRP041308	Global variation of gene expression induced by constitutive activation of the NIK receptor in Arabidopsis
+SRR1257406	SRP041308	Global variation of gene expression induced by constitutive activation of the NIK receptor in Arabidopsis
+SRR1261351	SRP041424	Arabidopsis thalianaTranscriptome or Gene expression
+SRR1261509	SRP041424	Arabidopsis thalianaTranscriptome or Gene expression
+SRR1266848	SRP041593	Detection of Pol IV-dependent transcripts at the genomic scale in Arabidopsis reveals features and regulation of siRNA biogenesis
+SRR1266849	SRP041593	Detection of Pol IV-dependent transcripts at the genomic scale in Arabidopsis reveals features and regulation of siRNA biogenesis
+SRR1266850	SRP041593	Detection of Pol IV-dependent transcripts at the genomic scale in Arabidopsis reveals features and regulation of siRNA biogenesis
+SRR1266851	SRP041593	Detection of Pol IV-dependent transcripts at the genomic scale in Arabidopsis reveals features and regulation of siRNA biogenesis
+SRR1266853	SRP041593	Detection of Pol IV-dependent transcripts at the genomic scale in Arabidopsis reveals features and regulation of siRNA biogenesis
+SRR1266854	SRP041593	Detection of Pol IV-dependent transcripts at the genomic scale in Arabidopsis reveals features and regulation of siRNA biogenesis
+SRR1576069	SRP047144	Arabidopsis thaliana strain:Col-0 Transcriptome or Gene expression
+SRR1576251	SRP047144	Arabidopsis thaliana strain:Col-0 Transcriptome or Gene expression
+SRR1577101	SRP047144	Arabidopsis thaliana strain:Col-0 Transcriptome or Gene expression
+SRR1581015	SRP047144	Arabidopsis thaliana strain:Col-0 Transcriptome or Gene expression
+SRR1581016	SRP047144	Arabidopsis thaliana strain:Col-0 Transcriptome or Gene expression
+SRR1581017	SRP047144	Arabidopsis thaliana strain:Col-0 Transcriptome or Gene expression
+SRR1582209	SRP047144	Arabidopsis thaliana strain:Col-0 Transcriptome or Gene expression
+SRR1583556	SRP047144	Arabidopsis thaliana strain:Col-0 Transcriptome or Gene expression
+SRR1583579	SRP047144	Arabidopsis thaliana strain:Col-0 Transcriptome or Gene expression
+SRR1584414	SRP047144	Arabidopsis thaliana strain:Col-0 Transcriptome or Gene expression
+SRR1584415	SRP047144	Arabidopsis thaliana strain:Col-0 Transcriptome or Gene expression
+SRR1584416	SRP047144	Arabidopsis thaliana strain:Col-0 Transcriptome or Gene expression
+SRR1585303	SRP047144	Arabidopsis thaliana strain:Col-0 Transcriptome or Gene expression
+SRR1585304	SRP047144	Arabidopsis thaliana strain:Col-0 Transcriptome or Gene expression
+SRR1585305	SRP047144	Arabidopsis thaliana strain:Col-0 Transcriptome or Gene expression
+SRR1595557	SRP047144	Arabidopsis thaliana strain:Col-0 Transcriptome or Gene expression
+SRR1595569	SRP047144	Arabidopsis thaliana strain:Col-0 Transcriptome or Gene expression
+SRR1595601	SRP047144	Arabidopsis thaliana strain:Col-0 Transcriptome or Gene expression
+SRR1596299	SRP047144	Arabidopsis thaliana strain:Col-0 Transcriptome or Gene expression
+SRR1596300	SRP047144	Arabidopsis thaliana strain:Col-0 Transcriptome or Gene expression
+SRR1596305	SRP047144	Arabidopsis thaliana strain:Col-0 Transcriptome or Gene expression
+SRR1598765	SRP047144	Arabidopsis thaliana strain:Col-0 Transcriptome or Gene expression
+SRR1598766	SRP047144	Arabidopsis thaliana strain:Col-0 Transcriptome or Gene expression
+SRR1598767	SRP047144	Arabidopsis thaliana strain:Col-0 Transcriptome or Gene expression
+SRR1283943	SRP041897	RNA-seq analysis of alternative splicing events in duplicated genes of Arabidopsis thaliana indicates considerable qualitative and quantitative divergence
+SRR1283944	SRP041897	RNA-seq analysis of alternative splicing events in duplicated genes of Arabidopsis thaliana indicates considerable qualitative and quantitative divergence
+SRR1283945	SRP041897	RNA-seq analysis of alternative splicing events in duplicated genes of Arabidopsis thaliana indicates considerable qualitative and quantitative divergence
+SRR1292205	SRP042088	RNA Sequencing analysis of Wild Type and HID1 mutant Transcriptomes
+SRR1292206	SRP042088	RNA Sequencing analysis of Wild Type and HID1 mutant Transcriptomes
+SRR1292207	SRP042088	RNA Sequencing analysis of Wild Type and HID1 mutant Transcriptomes
+SRR1292208	SRP042088	RNA Sequencing analysis of Wild Type and HID1 mutant Transcriptomes
+SRR1292209	SRP042088	RNA Sequencing analysis of Wild Type and HID1 mutant Transcriptomes
+SRR1292210	SRP042088	RNA Sequencing analysis of Wild Type and HID1 mutant Transcriptomes
+SRR1298719	SRP042237	Direct roles of SPEECHLESS in the specification of stomatal self-renewing cells [RNA-seq]
+SRR1298720	SRP042237	Direct roles of SPEECHLESS in the specification of stomatal self-renewing cells [RNA-seq]
+SRR1298721	SRP042237	Direct roles of SPEECHLESS in the specification of stomatal self-renewing cells [RNA-seq]
+SRR1298722	SRP042237	Direct roles of SPEECHLESS in the specification of stomatal self-renewing cells [RNA-seq]
+SRR1298723	SRP042237	Direct roles of SPEECHLESS in the specification of stomatal self-renewing cells [RNA-seq]
+SRR1298724	SRP042237	Direct roles of SPEECHLESS in the specification of stomatal self-renewing cells [RNA-seq]
+SRR1298725	SRP042237	Direct roles of SPEECHLESS in the specification of stomatal self-renewing cells [RNA-seq]
+SRR1298726	SRP042237	Direct roles of SPEECHLESS in the specification of stomatal self-renewing cells [RNA-seq]
+SRR1298727	SRP042237	Direct roles of SPEECHLESS in the specification of stomatal self-renewing cells [RNA-seq]
+SRR1298728	SRP042237	Direct roles of SPEECHLESS in the specification of stomatal self-renewing cells [RNA-seq]
+SRR1298729	SRP042237	Direct roles of SPEECHLESS in the specification of stomatal self-renewing cells [RNA-seq]
+SRR1299117	SRP042272	Arabidopsis thaliana strain:Landsberg erecta Transcriptome or Gene expression
+SRR1299118	SRP042272	Arabidopsis thaliana strain:Landsberg erecta Transcriptome or Gene expression
+SRR1299119	SRP042272	Arabidopsis thaliana strain:Landsberg erecta Transcriptome or Gene expression
+SRR1299120	SRP042272	Arabidopsis thaliana strain:Landsberg erecta Transcriptome or Gene expression
+SRR1299121	SRP042272	Arabidopsis thaliana strain:Landsberg erecta Transcriptome or Gene expression
+SRR1299122	SRP042272	Arabidopsis thaliana strain:Landsberg erecta Transcriptome or Gene expression
+SRR1302268	SRP042365	The photoreceptor chaperone FHY1 has an independent role in gene modulation and plant development under far-red light [RNA-Seq]
+SRR1302269	SRP042365	The photoreceptor chaperone FHY1 has an independent role in gene modulation and plant development under far-red light [RNA-Seq]
+SRR1302270	SRP042365	The photoreceptor chaperone FHY1 has an independent role in gene modulation and plant development under far-red light [RNA-Seq]
+SRR1302271	SRP042365	The photoreceptor chaperone FHY1 has an independent role in gene modulation and plant development under far-red light [RNA-Seq]
+SRR1302272	SRP042365	The photoreceptor chaperone FHY1 has an independent role in gene modulation and plant development under far-red light [RNA-Seq]
+SRR1302273	SRP042365	The photoreceptor chaperone FHY1 has an independent role in gene modulation and plant development under far-red light [RNA-Seq]
+SRR1496188	SRP043981	Transcriptomes of dyt1-3 and related bHLH mutants
+SRR1496421	SRP043981	Transcriptomes of dyt1-3 and related bHLH mutants
+SRR1496639	SRP043981	Transcriptomes of dyt1-3 and related bHLH mutants
+SRR1497126	SRP043981	Transcriptomes of dyt1-3 and related bHLH mutants
+SRR1497245	SRP043981	Transcriptomes of dyt1-3 and related bHLH mutants
+SRR1497919	SRP043981	Transcriptomes of dyt1-3 and related bHLH mutants
+SRR1508458	SRP044123	The CLE40 and CRN/CLV2 signaling pathways antagonistically control root meristem growth in Arabidopsis
+SRR1508459	SRP044123	The CLE40 and CRN/CLV2 signaling pathways antagonistically control root meristem growth in Arabidopsis
+SRR1508460	SRP044123	The CLE40 and CRN/CLV2 signaling pathways antagonistically control root meristem growth in Arabidopsis
+SRR1508461	SRP044123	The CLE40 and CRN/CLV2 signaling pathways antagonistically control root meristem growth in Arabidopsis
+SRR1508462	SRP044123	The CLE40 and CRN/CLV2 signaling pathways antagonistically control root meristem growth in Arabidopsis
+SRR1508463	SRP044123	The CLE40 and CRN/CLV2 signaling pathways antagonistically control root meristem growth in Arabidopsis
+SRR1508464	SRP044123	The CLE40 and CRN/CLV2 signaling pathways antagonistically control root meristem growth in Arabidopsis
+SRR1508465	SRP044123	The CLE40 and CRN/CLV2 signaling pathways antagonistically control root meristem growth in Arabidopsis
+SRR1508466	SRP044123	The CLE40 and CRN/CLV2 signaling pathways antagonistically control root meristem growth in Arabidopsis
+SRR1508467	SRP044123	The CLE40 and CRN/CLV2 signaling pathways antagonistically control root meristem growth in Arabidopsis
+SRR1508468	SRP044123	The CLE40 and CRN/CLV2 signaling pathways antagonistically control root meristem growth in Arabidopsis
+SRR1521947	SRP044687	SEEDSTICK Is a Master Regulator of Development and Metabolism in Arabidopsis Seed Coat
+SRR1521948	SRP044687	SEEDSTICK Is a Master Regulator of Development and Metabolism in Arabidopsis Seed Coat
+SRR1521949	SRP044687	SEEDSTICK Is a Master Regulator of Development and Metabolism in Arabidopsis Seed Coat
+SRR1521950	SRP044687	SEEDSTICK Is a Master Regulator of Development and Metabolism in Arabidopsis Seed Coat
+SRR1524935	SRP044814	Arabidopsis thaliana strain:Col_0 Transcriptome or Gene expression
+SRR1524938	SRP044814	Arabidopsis thaliana strain:Col_0 Transcriptome or Gene expression
+SRR1524940	SRP044814	Arabidopsis thaliana strain:Col_0 Transcriptome or Gene expression
+SRR1524941	SRP044814	Arabidopsis thaliana strain:Col_0 Transcriptome or Gene expression
+SRR1524945	SRP044814	Arabidopsis thaliana strain:Col_0 Transcriptome or Gene expression
+SRR1524946	SRP044814	Arabidopsis thaliana strain:Col_0 Transcriptome or Gene expression
+SRR1548684	SRP045478	Genome-wide analysis of the lsm4 and lsm5 mutant transcriptomes
+SRR1548685	SRP045478	Genome-wide analysis of the lsm4 and lsm5 mutant transcriptomes
+SRR1548686	SRP045478	Genome-wide analysis of the lsm4 and lsm5 mutant transcriptomes
+SRR1548687	SRP045478	Genome-wide analysis of the lsm4 and lsm5 mutant transcriptomes
+SRR1548688	SRP045478	Genome-wide analysis of the lsm4 and lsm5 mutant transcriptomes
+SRR1548689	SRP045478	Genome-wide analysis of the lsm4 and lsm5 mutant transcriptomes
+SRR1548690	SRP045478	Genome-wide analysis of the lsm4 and lsm5 mutant transcriptomes
+SRR1548691	SRP045478	Genome-wide analysis of the lsm4 and lsm5 mutant transcriptomes
+SRR1548692	SRP045478	Genome-wide analysis of the lsm4 and lsm5 mutant transcriptomes
+SRR1548693	SRP045478	Genome-wide analysis of the lsm4 and lsm5 mutant transcriptomes
+SRR1548696	SRP045478	Genome-wide analysis of the lsm4 and lsm5 mutant transcriptomes
+SRR1548697	SRP045478	Genome-wide analysis of the lsm4 and lsm5 mutant transcriptomes
+SRR1548698	SRP045478	Genome-wide analysis of the lsm4 and lsm5 mutant transcriptomes
+SRR1548699	SRP045478	Genome-wide analysis of the lsm4 and lsm5 mutant transcriptomes
+SRR1548700	SRP045478	Genome-wide analysis of the lsm4 and lsm5 mutant transcriptomes
+SRR1548701	SRP045478	Genome-wide analysis of the lsm4 and lsm5 mutant transcriptomes
+SRR1548702	SRP045478	Genome-wide analysis of the lsm4 and lsm5 mutant transcriptomes
+SRR1548703	SRP045478	Genome-wide analysis of the lsm4 and lsm5 mutant transcriptomes
+SRR1548704	SRP045478	Genome-wide analysis of the lsm4 and lsm5 mutant transcriptomes
+SRR1548705	SRP045478	Genome-wide analysis of the lsm4 and lsm5 mutant transcriptomes
+SRR1564469	SRP046088	Dormancy of green-cotyledon Col seeds matured at 20°C vs 15°C
+SRR1564470	SRP046088	Dormancy of green-cotyledon Col seeds matured at 20°C vs 15°C
+SRR1564471	SRP046088	Dormancy of green-cotyledon Col seeds matured at 20°C vs 15°C
+SRR1564472	SRP046088	Dormancy of green-cotyledon Col seeds matured at 20°C vs 15°C
+SRR1564473	SRP046088	Dormancy of green-cotyledon Col seeds matured at 20°C vs 15°C
+SRR1564474	SRP046088	Dormancy of green-cotyledon Col seeds matured at 20°C vs 15°C
+SRR1578854	SRP047297	Quantitative trait loci mapping and transcriptome analysis reveal candidate genes regulating the response to ozone in Arabidopsis thaliana
+SRR1578855	SRP047297	Quantitative trait loci mapping and transcriptome analysis reveal candidate genes regulating the response to ozone in Arabidopsis thaliana
+SRR1578856	SRP047297	Quantitative trait loci mapping and transcriptome analysis reveal candidate genes regulating the response to ozone in Arabidopsis thaliana
+SRR1578857	SRP047297	Quantitative trait loci mapping and transcriptome analysis reveal candidate genes regulating the response to ozone in Arabidopsis thaliana
+SRR1578858	SRP047297	Quantitative trait loci mapping and transcriptome analysis reveal candidate genes regulating the response to ozone in Arabidopsis thaliana
+SRR1578859	SRP047297	Quantitative trait loci mapping and transcriptome analysis reveal candidate genes regulating the response to ozone in Arabidopsis thaliana
+SRR1578860	SRP047297	Quantitative trait loci mapping and transcriptome analysis reveal candidate genes regulating the response to ozone in Arabidopsis thaliana
+SRR1578861	SRP047297	Quantitative trait loci mapping and transcriptome analysis reveal candidate genes regulating the response to ozone in Arabidopsis thaliana
+SRR1578862	SRP047297	Quantitative trait loci mapping and transcriptome analysis reveal candidate genes regulating the response to ozone in Arabidopsis thaliana
+SRR1578863	SRP047297	Quantitative trait loci mapping and transcriptome analysis reveal candidate genes regulating the response to ozone in Arabidopsis thaliana
+SRR1578864	SRP047297	Quantitative trait loci mapping and transcriptome analysis reveal candidate genes regulating the response to ozone in Arabidopsis thaliana
+SRR1578865	SRP047297	Quantitative trait loci mapping and transcriptome analysis reveal candidate genes regulating the response to ozone in Arabidopsis thaliana
+SRR1578866	SRP047297	Quantitative trait loci mapping and transcriptome analysis reveal candidate genes regulating the response to ozone in Arabidopsis thaliana
+SRR1578867	SRP047297	Quantitative trait loci mapping and transcriptome analysis reveal candidate genes regulating the response to ozone in Arabidopsis thaliana
+SRR1578868	SRP047297	Quantitative trait loci mapping and transcriptome analysis reveal candidate genes regulating the response to ozone in Arabidopsis thaliana
+SRR1578869	SRP047297	Quantitative trait loci mapping and transcriptome analysis reveal candidate genes regulating the response to ozone in Arabidopsis thaliana
+SRR1578870	SRP047297	Quantitative trait loci mapping and transcriptome analysis reveal candidate genes regulating the response to ozone in Arabidopsis thaliana
+SRR1578871	SRP047297	Quantitative trait loci mapping and transcriptome analysis reveal candidate genes regulating the response to ozone in Arabidopsis thaliana
+SRR1578872	SRP047297	Quantitative trait loci mapping and transcriptome analysis reveal candidate genes regulating the response to ozone in Arabidopsis thaliana
+SRR1578873	SRP047297	Quantitative trait loci mapping and transcriptome analysis reveal candidate genes regulating the response to ozone in Arabidopsis thaliana
+SRR1578874	SRP047297	Quantitative trait loci mapping and transcriptome analysis reveal candidate genes regulating the response to ozone in Arabidopsis thaliana
+SRR1578875	SRP047297	Quantitative trait loci mapping and transcriptome analysis reveal candidate genes regulating the response to ozone in Arabidopsis thaliana
+SRR1578876	SRP047297	Quantitative trait loci mapping and transcriptome analysis reveal candidate genes regulating the response to ozone in Arabidopsis thaliana
+SRR1578877	SRP047297	Quantitative trait loci mapping and transcriptome analysis reveal candidate genes regulating the response to ozone in Arabidopsis thaliana
+SRR1584460	SRP047445	A CTD phosphatase modulates eIF4AIII nucleocytoplasmic shuttling and nonsense-mediated mRNA decay
+SRR1584461	SRP047445	A CTD phosphatase modulates eIF4AIII nucleocytoplasmic shuttling and nonsense-mediated mRNA decay
+SRR1584462	SRP047445	A CTD phosphatase modulates eIF4AIII nucleocytoplasmic shuttling and nonsense-mediated mRNA decay
+SRR1584463	SRP047445	A CTD phosphatase modulates eIF4AIII nucleocytoplasmic shuttling and nonsense-mediated mRNA decay
+SRR1634274	SRP049368	The SNF2 and RING domain proteins FRG1 and 2 are required for RNA-directed DNA methylation in Arabidopsis [mRNA-Seq]
+SRR1634275	SRP049368	The SNF2 and RING domain proteins FRG1 and 2 are required for RNA-directed DNA methylation in Arabidopsis [mRNA-Seq]
+SRR1634276	SRP049368	The SNF2 and RING domain proteins FRG1 and 2 are required for RNA-directed DNA methylation in Arabidopsis [mRNA-Seq]
+SRR1634277	SRP049368	The SNF2 and RING domain proteins FRG1 and 2 are required for RNA-directed DNA methylation in Arabidopsis [mRNA-Seq]
+SRR1634278	SRP049368	The SNF2 and RING domain proteins FRG1 and 2 are required for RNA-directed DNA methylation in Arabidopsis [mRNA-Seq]
+SRR1634279	SRP049368	The SNF2 and RING domain proteins FRG1 and 2 are required for RNA-directed DNA methylation in Arabidopsis [mRNA-Seq]
+SRR1652313	SRP049707	Arabidopsis thaliana strain:ABRC Transcriptome or Gene expression
+SRR1652314	SRP049707	Arabidopsis thaliana strain:ABRC Transcriptome or Gene expression
+SRR1652315	SRP049707	Arabidopsis thaliana strain:ABRC Transcriptome or Gene expression
+SRR1652316	SRP049707	Arabidopsis thaliana strain:ABRC Transcriptome or Gene expression
+SRR1652317	SRP049707	Arabidopsis thaliana strain:ABRC Transcriptome or Gene expression
+SRR1654353	SRP049951	Transcriptional response to zebularine and mitomycin C (MMC) in wild type and ATR deficient Arabidopsis thaliana plants
+SRR1654354	SRP049951	Transcriptional response to zebularine and mitomycin C (MMC) in wild type and ATR deficient Arabidopsis thaliana plants
+SRR1654355	SRP049951	Transcriptional response to zebularine and mitomycin C (MMC) in wild type and ATR deficient Arabidopsis thaliana plants
+SRR1654356	SRP049951	Transcriptional response to zebularine and mitomycin C (MMC) in wild type and ATR deficient Arabidopsis thaliana plants
+SRR1654357	SRP049951	Transcriptional response to zebularine and mitomycin C (MMC) in wild type and ATR deficient Arabidopsis thaliana plants
+SRR1654358	SRP049951	Transcriptional response to zebularine and mitomycin C (MMC) in wild type and ATR deficient Arabidopsis thaliana plants
+SRR1654359	SRP049951	Transcriptional response to zebularine and mitomycin C (MMC) in wild type and ATR deficient Arabidopsis thaliana plants
+SRR1654360	SRP049951	Transcriptional response to zebularine and mitomycin C (MMC) in wild type and ATR deficient Arabidopsis thaliana plants
+SRR1654361	SRP049951	Transcriptional response to zebularine and mitomycin C (MMC) in wild type and ATR deficient Arabidopsis thaliana plants
+SRR1654363	SRP049951	Transcriptional response to zebularine and mitomycin C (MMC) in wild type and ATR deficient Arabidopsis thaliana plants
+SRR1654364	SRP049951	Transcriptional response to zebularine and mitomycin C (MMC) in wild type and ATR deficient Arabidopsis thaliana plants
+SRR1654365	SRP049951	Transcriptional response to zebularine and mitomycin C (MMC) in wild type and ATR deficient Arabidopsis thaliana plants
+SRR1654366	SRP049951	Transcriptional response to zebularine and mitomycin C (MMC) in wild type and ATR deficient Arabidopsis thaliana plants
+SRR1654367	SRP049951	Transcriptional response to zebularine and mitomycin C (MMC) in wild type and ATR deficient Arabidopsis thaliana plants
+SRR1654368	SRP049951	Transcriptional response to zebularine and mitomycin C (MMC) in wild type and ATR deficient Arabidopsis thaliana plants
+SRR1659921	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR1659922	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR1660397	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR1660398	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR1661473	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR1661474	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR1661475	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR1661476	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR1661477	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR1661478	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR1661483	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR1661484	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR1688325	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR1688326	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR1688327	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR1688328	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR1688425	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR1688426	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR1688427	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR1688429	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR1738104	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738105	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738106	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738107	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738108	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738109	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738110	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738111	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738112	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738113	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738114	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738115	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738116	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738117	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738118	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738119	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738120	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738121	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738122	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738123	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738124	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738125	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738126	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738127	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738128	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738129	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738130	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738131	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738132	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738133	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738134	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738135	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738136	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738137	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738138	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738139	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738140	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738141	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738142	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738143	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738144	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738145	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738146	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738147	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738148	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738149	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738150	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1738151	SRP051665	Translatome analyses of opposing tissue-specific brassinosteroid signals orchestrating root meristem differentiation
+SRR1752178	SRP052029	Transcriptional response to UV treatment in several Arabidopsis thaliana accessions
+SRR1752181	SRP052029	Transcriptional response to UV treatment in several Arabidopsis thaliana accessions
+SRR1752182	SRP052029	Transcriptional response to UV treatment in several Arabidopsis thaliana accessions
+SRR1752185	SRP052029	Transcriptional response to UV treatment in several Arabidopsis thaliana accessions
+SRR1752188	SRP052029	Transcriptional response to UV treatment in several Arabidopsis thaliana accessions
+SRR1752189	SRP052029	Transcriptional response to UV treatment in several Arabidopsis thaliana accessions
+SRR1752190	SRP052029	Transcriptional response to UV treatment in several Arabidopsis thaliana accessions
+SRR1752191	SRP052029	Transcriptional response to UV treatment in several Arabidopsis thaliana accessions
+SRR1752193	SRP052029	Transcriptional response to UV treatment in several Arabidopsis thaliana accessions
+SRR1752194	SRP052029	Transcriptional response to UV treatment in several Arabidopsis thaliana accessions
+SRR1752196	SRP052029	Transcriptional response to UV treatment in several Arabidopsis thaliana accessions
+SRR1752197	SRP052029	Transcriptional response to UV treatment in several Arabidopsis thaliana accessions
+SRR1768384	SRP052705	Arabidopsis thaliana Transcriptome or Gene expression
+SRR1768401	SRP052705	Arabidopsis thaliana Transcriptome or Gene expression
+SRR1793486	SRP053347	Transcriptome analysis of apoplastic reactive oxygen species signaling and dissection of its regulatory pathways
+SRR1793487	SRP053347	Transcriptome analysis of apoplastic reactive oxygen species signaling and dissection of its regulatory pathways
+SRR1793488	SRP053347	Transcriptome analysis of apoplastic reactive oxygen species signaling and dissection of its regulatory pathways
+SRR1793489	SRP053347	Transcriptome analysis of apoplastic reactive oxygen species signaling and dissection of its regulatory pathways
+SRR1793490	SRP053347	Transcriptome analysis of apoplastic reactive oxygen species signaling and dissection of its regulatory pathways
+SRR1793491	SRP053347	Transcriptome analysis of apoplastic reactive oxygen species signaling and dissection of its regulatory pathways
+SRR1793492	SRP053347	Transcriptome analysis of apoplastic reactive oxygen species signaling and dissection of its regulatory pathways
+SRR1793493	SRP053347	Transcriptome analysis of apoplastic reactive oxygen species signaling and dissection of its regulatory pathways
+SRR1793494	SRP053347	Transcriptome analysis of apoplastic reactive oxygen species signaling and dissection of its regulatory pathways
+SRR1793495	SRP053347	Transcriptome analysis of apoplastic reactive oxygen species signaling and dissection of its regulatory pathways
+SRR1793496	SRP053347	Transcriptome analysis of apoplastic reactive oxygen species signaling and dissection of its regulatory pathways
+SRR1793497	SRP053347	Transcriptome analysis of apoplastic reactive oxygen species signaling and dissection of its regulatory pathways
+SRR1793498	SRP053347	Transcriptome analysis of apoplastic reactive oxygen species signaling and dissection of its regulatory pathways
+SRR1793499	SRP053347	Transcriptome analysis of apoplastic reactive oxygen species signaling and dissection of its regulatory pathways
+SRR1793500	SRP053347	Transcriptome analysis of apoplastic reactive oxygen species signaling and dissection of its regulatory pathways
+SRR1793501	SRP053347	Transcriptome analysis of apoplastic reactive oxygen species signaling and dissection of its regulatory pathways
+SRR1793502	SRP053347	Transcriptome analysis of apoplastic reactive oxygen species signaling and dissection of its regulatory pathways
+SRR1793503	SRP053347	Transcriptome analysis of apoplastic reactive oxygen species signaling and dissection of its regulatory pathways
+SRR1793504	SRP053347	Transcriptome analysis of apoplastic reactive oxygen species signaling and dissection of its regulatory pathways
+SRR1793505	SRP053347	Transcriptome analysis of apoplastic reactive oxygen species signaling and dissection of its regulatory pathways
+SRR1793506	SRP053347	Transcriptome analysis of apoplastic reactive oxygen species signaling and dissection of its regulatory pathways
+SRR1793507	SRP053347	Transcriptome analysis of apoplastic reactive oxygen species signaling and dissection of its regulatory pathways
+SRR1793508	SRP053347	Transcriptome analysis of apoplastic reactive oxygen species signaling and dissection of its regulatory pathways
+SRR1793509	SRP053347	Transcriptome analysis of apoplastic reactive oxygen species signaling and dissection of its regulatory pathways
+SRR1810778	SRP055035	Comparison of basal gene expression strengths between Schrenkiella parvula and Arabidopsis thaliana
+SRR1810779	SRP055035	Comparison of basal gene expression strengths between Schrenkiella parvula and Arabidopsis thaliana
+SRR1810780	SRP055035	Comparison of basal gene expression strengths between Schrenkiella parvula and Arabidopsis thaliana
+SRR1810781	SRP055035	Comparison of basal gene expression strengths between Schrenkiella parvula and Arabidopsis thaliana
+SRR1810782	SRP055035	Comparison of basal gene expression strengths between Schrenkiella parvula and Arabidopsis thaliana
+SRR1810783	SRP055035	Comparison of basal gene expression strengths between Schrenkiella parvula and Arabidopsis thaliana
+SRR1802164	SRP053394	Transcriptomic change in response to high ambient temperature in two Arabidopsis thaliana ecotypes
+SRR1802165	SRP053394	Transcriptomic change in response to high ambient temperature in two Arabidopsis thaliana ecotypes
+SRR1802166	SRP053394	Transcriptomic change in response to high ambient temperature in two Arabidopsis thaliana ecotypes
+SRR1802167	SRP053394	Transcriptomic change in response to high ambient temperature in two Arabidopsis thaliana ecotypes
+SRR1802168	SRP053394	Transcriptomic change in response to high ambient temperature in two Arabidopsis thaliana ecotypes
+SRR1802169	SRP053394	Transcriptomic change in response to high ambient temperature in two Arabidopsis thaliana ecotypes
+SRR1802170	SRP053394	Transcriptomic change in response to high ambient temperature in two Arabidopsis thaliana ecotypes
+SRR1802171	SRP053394	Transcriptomic change in response to high ambient temperature in two Arabidopsis thaliana ecotypes
+SRR1802172	SRP053394	Transcriptomic change in response to high ambient temperature in two Arabidopsis thaliana ecotypes
+SRR1802173	SRP053394	Transcriptomic change in response to high ambient temperature in two Arabidopsis thaliana ecotypes
+SRR2073142	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR2073143	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR2073144	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR2073145	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR2073141	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR2073146	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR2073174	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR2073176	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR2073179	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR2106520	SRP050133	RNA-seq Analysis of an Apical Meristem Time Series Reveals a Critical Point in Arabidopsis thaliana Flower Initiation
+SRR2088865	SRP060432	MYB36 regulates the transition from proliferation to differentiation in the Arabidopsis root
+SRR2088866	SRP060432	MYB36 regulates the transition from proliferation to differentiation in the Arabidopsis root
+SRR2088867	SRP060432	MYB36 regulates the transition from proliferation to differentiation in the Arabidopsis root
+SRR2088868	SRP060432	MYB36 regulates the transition from proliferation to differentiation in the Arabidopsis root
+SRR2088871	SRP060432	MYB36 regulates the transition from proliferation to differentiation in the Arabidopsis root
+SRR2088872	SRP060432	MYB36 regulates the transition from proliferation to differentiation in the Arabidopsis root
+SRR2088873	SRP060432	MYB36 regulates the transition from proliferation to differentiation in the Arabidopsis root
+SRR2088874	SRP060432	MYB36 regulates the transition from proliferation to differentiation in the Arabidopsis root
+SRR2088875	SRP060432	MYB36 regulates the transition from proliferation to differentiation in the Arabidopsis root
+SRR2088876	SRP060432	MYB36 regulates the transition from proliferation to differentiation in the Arabidopsis root
+SRR2094583	SRP060594	Arabidopsis thaliana transcriptome with FLOWERING LOCUS T over expression
+SRR2094587	SRP060594	Arabidopsis thaliana transcriptome with FLOWERING LOCUS T over expression
