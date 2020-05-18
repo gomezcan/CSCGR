@@ -4,7 +4,7 @@
 respectively)(Obayashi et al., 2018). In total, 1,416 different RNA-seq libraries were used with expression data 
 associated to 25,296 different genes Files links: Expression_Co-expression_Data_link.txt
 
-2. Peaks files for all TFs analyses "PDI_files.bed" file:
+2. Peaks files for all TFs analyses "PDI_files.bed.gz", link in PDI_files.txt file:
  - Chr	
  - Peak_start
  - Peak_end
@@ -14,6 +14,6 @@ associated to 25,296 different genes Files links: Expression_Co-expression_Data_
  - Ref
  - Method source
 
-3. Network file with TF and their corresponding target genes: Network_file.txt file
+3. Network file with TF and their corresponding target genes: TF_Target_Network.txt.gz file
 
-4. BioGrid file with PPI used in the work (V3.5.169): PPI_data.txt file
+4. BioGrid file with PPI "BIOGRID_At.V3.5.169_02_25_2019.txt.gz" used in the work (V3.5.169): link in PPI_data.txt file

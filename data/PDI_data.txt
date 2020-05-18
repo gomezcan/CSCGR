@@ -1,4 +1,4 @@
-# This file contain a link to the PPI used in this work
+# This file contain a link to the PDI used in this work
 
 * https://www.dropbox.com/s/lojks5hbr07jayu/PDI_files.bed.gz?dl=0
 

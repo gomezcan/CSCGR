@@ -1,0 +1,5 @@
+# This file contain a link to the PPI used in this work
+
+- https://www.dropbox.com/s/b0nzpf54hl2lvzu/BIOGRID_At.V3.5.169_02_25_2019.txt.gz?dl=0 # local copy
+
+Note: this is a temporal link, in the near future this file will be available through AGRIS(https://agris-knowledgebase.org/) server 
