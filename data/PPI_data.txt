@@ -1,3 +1,6 @@
 # This file contain a link to the PPI used in this work
-https://www.dropbox.com/s/htwd92k4zfd08tl/BIOGRID_Arabidopsis_3.5.169_reduce_02_25_2019.txt?dl=0
-#
+
+* https://www.dropbox.com/s/lojks5hbr07jayu/PDI_files.bed.gz?dl=0
+
+Note: this is a temporal link, in the near future this file will be available through AGRIS(https://agris-knowledgebase.org/) server
+

@@ -1,2 +1,7 @@
-# this link have expression data used in this work
-http://atted.jp/download/coex/Ath-r.v15-08.G25296-S1401.quantile.mrgeo.d.zip.md5
+# ATTED-II link to expresion data used in this work
+- http://atted.jp/download/Ath-r.v15-08.G25296-S1401.quantile.expression.txt.zip # old link 
+- https://www.dropbox.com/s/8au5bsslqzm46h8/Ath_r_v15_08_expressionTAIRids.txt.gz?dl=0 # local copy
+
+# ATTED-II link to expresion data used in this work
+- http://atted.jp/download/coex/Ath-r.v15-08.G25296-S1401.quantile.mrgeo.d.zip
+ 
