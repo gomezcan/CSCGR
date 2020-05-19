@@ -1,8 +1,4 @@
-#####################################################################################################
-
-#This folder does have descriptions of the all the preprocessing requared before any further analysis
-
-#####################################################################################################
+#### This folder does have descriptions of preprocessing steps required before any further analysis
 
 1. Define local co-expression based on wPCC
 
