@@ -20,8 +20,9 @@ ExpressionDB <- ExpressionDB[,-c(1,1417)]
 ## Read Sample cluster  
 tsne2d <- read.table("tsne2D_clusters.txt", h=T)
 
-### create directory to save resutls
+###### create directory to save results ########
 system(paste("mkdir", "Local_CoExpDB", sep=' '))
+###############################################
 
 ##
 
