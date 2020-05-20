@@ -17,3 +17,5 @@ associated to 25,296 different genes Files links: Expression_Co-expression_Data_
 3. Network file with TF and their corresponding target genes: TF_Target_Network.txt.gz file
 
 4. BioGrid file with PPI "BIOGRID_At.V3.5.169_02_25_2019.txt.gz" used in the work (V3.5.169): link in PPI_data.txt file
+
+5. bed file with promoter regions used to define TF-target associations 
