@@ -1,5 +1,5 @@
 #############################################################################
-# This script calculate wPCC for a subsed os samples defined based on the   #
+# This script calculate wPCC for a subset of samples defined based on the   #
 # clustering analysis in Prep_1.1      					    #
 # With  the dataset used in this work, this number was set to 12 by default #
 #############################################################################
@@ -11,7 +11,7 @@ library(parallel)
 
 ###### Read input files ######
 ## Expresion data
-ExpressionDB <- read.table("../Ath_r_v15_08_expressionTAIRids.txt", h=T)
+ExpressionDB <- read.table("Ath_r_v15_08_expressionTAIRids.txt.gz", h=T)
 # GeneID as row names
 row.names(ExpressionDB) <- ExpressionDB$TAIRid
 # Remove GeneID and ENTREZ ID
