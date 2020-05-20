@@ -1,5 +1,5 @@
 # Co-expression-Signature-of-Combinatorial-Gene-Regulation (CSCGR)
-This repository contain description of primary data, processed data, and codes used to optain the main results of this project 
+This repository contains a description of primary data, processed data, and codes used to obtain the main results of this project
 
 **Pipeline/summary of the analysis that were done in this work**
 
