@@ -10,7 +10,11 @@
 
 3. Define local co-expression based on MI. Require cluster results from 1.1
 
-4. Define targets genes based on peaks
+4. Define targets genes based on peaks. 
+
+```
+bedtools intersect -a PDI_files.bed -b promoter2kb.TAIR10.bed -wo | cut -f4-8,15,16 > TF_Target_Network.txt;
+```
 
 5. Calculate partial correlacition of TFx-Targets conditioned by TFz. TFx and TFz should interect physically.
 
