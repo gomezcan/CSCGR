@@ -4,7 +4,7 @@ This repository contain description of primary data, processed data, and codes u
 **Pipeline/summary of the analysis that were done in this work**
 
 
-<img src="_img/Pipelie_paper.png" alt="Pipeline Overview" width="550"/> 
+<img src="_img/Pipeline_paper.png" alt="Pipeline Overview" width="550"/> 
 
 
 
